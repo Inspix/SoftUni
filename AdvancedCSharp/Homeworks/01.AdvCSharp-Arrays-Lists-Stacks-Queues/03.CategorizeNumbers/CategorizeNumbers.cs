@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
 using System.Globalization;
 
 class CategorizeNumbers
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
@@ -28,25 +26,13 @@ class CategorizeNumbers
                 wholeNumbers.Add((int)d);
             } 
         }
-        
 
-        string floatNumbersOutput = string.Empty;
-        foreach (double d in floatNumbers)
-        {
-            floatNumbersOutput += d + " ,";
-        }
-        floatNumbersOutput = floatNumbersOutput.TrimEnd(',');
-
-        string wholeNumbersOutput = string.Empty;
-        foreach (int i in wholeNumbers)
-        {
-            wholeNumbersOutput += i + " ,";
-        }
-        wholeNumbersOutput = wholeNumbersOutput.TrimEnd(',');
+        string floatNumbersOutput = string.Join(" ,", floatNumbers);
+        string wholeNumbersOutput = string.Join(" ,", wholeNumbers);
 
         Console.WriteLine("[{0}] -> min:{1}, max:{2} , sum:{3}, average:{4} ", floatNumbersOutput, Math.Round(floatNumbers.Min(), 2), Math.Round(floatNumbers.Max(), 2),Math.Round(floatNumbers.Sum(),2), Math.Round(floatNumbers.Average(), 2));
         Console.WriteLine("[{0}] -> min:{1}, max:{2} , average:{3:0.00} ", wholeNumbersOutput, wholeNumbers.Min(), wholeNumbers.Max(), wholeNumbers.Average());
-        
+
     }
 
     static double[] GetNumbers(string x)

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 class LongestIncSeq
 {
@@ -41,17 +39,11 @@ class LongestIncSeq
                 index = i;
             }
 
-            foreach (int item in sequences[i])
-            {
-                Console.Write("{0} ", item);
-            }
-            Console.WriteLine();
+            
+            Console.WriteLine(string.Join(" ", sequences[i]));
         }
 
         Console.Write("Longest: ");
-        foreach (int item in sequences[index])
-        {
-            Console.Write(item + " ");
-        }
+        Console.WriteLine(string.Join(" ", sequences[index]));
     }
 }

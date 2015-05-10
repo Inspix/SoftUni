@@ -4,7 +4,7 @@ using System.Linq;
 
 class SortedArrayOfNumbersSelectiveSort
 {
-    static void Main(string[] args)
+    static void Main()
     {
         string input = Console.ReadLine();
         int[] SortedNumbers = SelectiveSort(GetNumArray(input));
@@ -13,7 +13,6 @@ class SortedArrayOfNumbersSelectiveSort
         {
             Console.Write(i + " ");
         }
-
     }
 
     static int[] SelectiveSort(int[] numbers)

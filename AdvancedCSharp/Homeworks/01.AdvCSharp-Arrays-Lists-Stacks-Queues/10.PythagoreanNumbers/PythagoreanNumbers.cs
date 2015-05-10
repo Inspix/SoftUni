@@ -21,7 +21,6 @@ class PythagoreanNumbers
             {
                 for (int c = 0; c < n; c++)
                 {
-
                     if (numbers[a] <= numbers[b])
                     {
                         if (PytaNumber(numbers[a], numbers[b], numbers[c]))

@@ -67,7 +67,9 @@ class LegoBlocks
 			{
 			    Array.Reverse(y[i]);
 			}
+
         int[][] glued = new int[x.GetUpperBound(0)+1][];
+
         for (int i = 0; i <= x.GetUpperBound(0); i++)
         {
             int index = 0;

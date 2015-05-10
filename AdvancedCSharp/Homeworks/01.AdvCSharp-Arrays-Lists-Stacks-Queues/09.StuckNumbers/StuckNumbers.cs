@@ -17,7 +17,6 @@ class StuckNumbers
                 {
                     for (int d = 0; d < n; d++)
                     {
-
                         if (a != b && a != c && a != d && b != c && b != d && c != d )
                         {
                             if (numbers[a]+numbers[b] == numbers[c]+numbers[d])
