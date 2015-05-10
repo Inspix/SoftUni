@@ -37,10 +37,10 @@ class SortedArrayOfNumbersSelectiveSort
         List<int> numbers = new List<int>();
         Array.ForEach(x.Split(' '), s =>
         {
-            int currentNumber;
-            if (Int32.TryParse(s, out currentNumber))
+            int cNumber;
+            if (Int32.TryParse(s, out cNumber))
             {
-                numbers.Add(currentNumber);
+                numbers.Add(cNumber);
             }
 
         });
