@@ -7,7 +7,7 @@ class LettersChangeNumbers
 {
     static void Main()
     {
-        string[] input = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        string[] input = Console.ReadLine().Split(new char[] { ' ','\t','\n' }, StringSplitOptions.RemoveEmptyEntries);
         double result = 0;
         foreach (string str in input)
         {
