@@ -8,7 +8,7 @@ class PlusRemove
     {
         string input;
         List<string> characters = new List<string>();
-        List<Position> charToRemove = new List<Position>();
+        List<Tuple<int, int>> charToRemove = new List<Tuple<int, int>>();
         do
         {
             input = Console.ReadLine();
@@ -24,9 +24,9 @@ class PlusRemove
 
         charToRemove = CheckForPlus(toLowerAndExtend(characters));
 
-        foreach (Position pos in charToRemove)
+        foreach (var pos in charToRemove)
         {
-            characters[pos.Row] = characters[pos.Row].Remove(pos.Col, 1).Insert(pos.Col, " ");
+            characters[pos.Item1] = characters[pos.Item1].Remove(pos.Item2, 1).Insert(pos.Item2, " ");
         }
 
         foreach (string item in characters)
@@ -35,10 +35,10 @@ class PlusRemove
         }
     }
 
-    static List<Position> CheckForPlus(List<string> characters)
+    static List<Tuple<int, int>> CheckForPlus(List<string> characters)
     {
-        
-        List<Position> results = new List<Position>();
+
+        List<Tuple<int, int>> results = new List<Tuple<int, int>>();
         for (int row = 0; row < characters.Count-2; row++)
         {
             for (int col = 1; col < characters[row].Length - 1; col++)
@@ -50,11 +50,11 @@ class PlusRemove
                 }
                 else if (characters[row][col] == toCheck && characters[row + 1][col] == toCheck && characters[row + 2][col] == toCheck && characters[row + 1][col - 1] == toCheck && characters[row + 1][col + 1] == toCheck)
                 {
-                    results.Add(new Position { Row = row, Col = col });
-                    results.Add(new Position { Row = row + 1, Col = col });
-                    results.Add(new Position { Row = row + 2, Col = col });
-                    results.Add(new Position { Row = row + 1, Col = col + 1 });
-                    results.Add(new Position { Row = row + 1, Col = col - 1 });
+                    results.Add(new Tuple<int, int>(row, col));
+                    results.Add(new Tuple<int, int>(row + 1, col));
+                    results.Add(new Tuple<int, int>(row + 2, col));
+                    results.Add(new Tuple<int, int>(row + 1, col + 1));
+                    results.Add(new Tuple<int, int>(row + 1, col - 1));
                 }
             }  
         }
@@ -71,9 +71,4 @@ class PlusRemove
         }
         return newCharacters;
     }
-}
-class Position
-{
-    public int Row {set;get;}
-    public int Col {set;get;}
 }

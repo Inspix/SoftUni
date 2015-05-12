@@ -40,9 +40,9 @@ class ToTheStars
 }
 class Star
 {
-    public double X { get; private set; }
-    public double Y { get; private set; }
-    public string Name { get; private set; }
+    double X;
+    double Y;
+    public string Name;
 
     public Star(string name, double x, double y)
     {
