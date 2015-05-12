@@ -1,6 +1,4 @@
-﻿// The solution doesn't pass all judge tests and i can't figure it out
-
-using System;
+﻿using System;
 using System.Text;
 using System.Threading;
 using System.Globalization;
@@ -9,13 +7,13 @@ class LettersChangeNumbers
 {
     static void Main()
     {
-        string[] input = Console.ReadLine().Split(new char[]{' '},StringSplitOptions.RemoveEmptyEntries);
+        string[] input = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         double result = 0;
         foreach (string str in input)
         {
             result += calculateValue(str);
         }
-        Console.WriteLine("{0:f2}",result);
+        Console.WriteLine("{0:0.00}", result);
 
     }
 
@@ -40,18 +38,20 @@ class LettersChangeNumbers
         else
         {
             number += getAlphabetPosition(lastLetter);
-        } 
+        }
         return number;
     }
 
     static double getAlphabetPosition(char x)
     {
-        if (x >= 65 && x <= 90)
+        int value = (int)x;
+        if (value >= 65 && value <= 90)
         {
-            return x - 64;
-        }else
+            return value - 64;
+        }
+        else
         {
-            return x - 96;
+            return value - 96;
         }
     }
 }
