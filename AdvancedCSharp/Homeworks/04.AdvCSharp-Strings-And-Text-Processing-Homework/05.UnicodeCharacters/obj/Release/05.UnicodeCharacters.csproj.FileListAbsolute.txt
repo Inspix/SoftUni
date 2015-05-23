@@ -1,8 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\05.UnicodeCharacters\bin\Release\05.UnicodeCharacters.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\05.UnicodeCharacters\bin\Release\05.UnicodeCharacters.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\05.UnicodeCharacters\bin\Release\05.UnicodeCharacters.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\05.UnicodeCharacters\obj\Release\05.UnicodeCharacters.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\05.UnicodeCharacters\obj\Release\05.UnicodeCharacters.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\05.UnicodeCharacters\bin\Release\05.UnicodeCharacters.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\05.UnicodeCharacters\obj\Release\05.UnicodeCharacters.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\05.UnicodeCharacters\obj\Release\05.UnicodeCharacters.pdb

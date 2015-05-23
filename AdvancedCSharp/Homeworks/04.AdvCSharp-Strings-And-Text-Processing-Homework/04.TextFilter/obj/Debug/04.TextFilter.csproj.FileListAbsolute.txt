@@ -1,1 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\bin\Debug\04.TextFilter.exe.config

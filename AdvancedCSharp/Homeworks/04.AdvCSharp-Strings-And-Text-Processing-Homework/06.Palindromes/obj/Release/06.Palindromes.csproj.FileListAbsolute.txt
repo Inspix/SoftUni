@@ -1,9 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\bin\Release\06.Palindromes.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\bin\Release\06.Palindromes.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\bin\Release\06.Palindromes.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\obj\Release\06.Palindromes.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\obj\Release\06.Palindromes.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.Palindromes\obj\Release\06.Palindromes.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\06.Palindromes\bin\Release\06.Palindromes.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\06.Palindromes\obj\Release\06.Palindromes.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\06.Palindromes\obj\Release\06.Palindromes.pdb
