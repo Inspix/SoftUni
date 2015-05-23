@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\08.DirectoryFullTraversal\bin\Release\08.DirectoryFullTraversal.exe.config

@@ -1,0 +1,12 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\bin\Debug\01.OddLines.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\bin\Debug\01.OddLines.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.AdvCSharp-Streams-And-Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.AdvCSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06.AdvCSharp-Streams-And-Files\01.OddLines\obj\Debug\01.OddLines.pdb
