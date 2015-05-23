@@ -1,1 +1,0 @@
-E:\Program Files\CSharpProjects\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\bin\Release\01.BiggerNumber.exe.config

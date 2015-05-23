@@ -1,1 +1,0 @@
-E:\Program Files\CSharpProjects\AdvancedCSharp\02.AdvCSharp-Methods\05.ReverseNumber\bin\Release\05.ReverseNumber.exe.config

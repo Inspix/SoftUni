@@ -1,9 +1,0 @@
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
-E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
