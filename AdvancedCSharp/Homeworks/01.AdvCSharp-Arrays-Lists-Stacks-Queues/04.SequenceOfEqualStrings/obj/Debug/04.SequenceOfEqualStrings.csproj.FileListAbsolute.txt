@@ -1,9 +1,0 @@
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe.config
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.pdb
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.csprojResolveAssemblyReference.cache
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.exe
-C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.pdb

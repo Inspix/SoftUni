@@ -1,8 +1,0 @@
-c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\bin\Debug\02.SortedArrayOfNumbersSelectiveSort.exe.config
-c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\bin\Debug\02.SortedArrayOfNumbersSelectiveSort.exe
-c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\bin\Debug\02.SortedArrayOfNumbersSelectiveSort.pdb
-c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\obj\Debug\02.SortedArrayOfNumbersSelectiveSort.exe
-c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\obj\Debug\02.SortedArrayOfNumbersSelectiveSort.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\bin\Debug\02.SortedArrayOfNumbersSelectiveSort.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\obj\Debug\02.SortedArrayOfNumbersSelectiveSort.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\02.SortedArrayOfNumbersSelectiveSort\obj\Debug\02.SortedArrayOfNumbersSelectiveSort.pdb

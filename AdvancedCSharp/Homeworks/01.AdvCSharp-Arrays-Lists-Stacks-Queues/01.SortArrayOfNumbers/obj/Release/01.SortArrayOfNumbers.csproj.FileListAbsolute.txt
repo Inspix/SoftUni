@@ -1,2 +1,0 @@
-E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\bin\Release\01.SortArrayOfNumbers.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\bin\Release\01.SortArrayOfNumbers.exe.config

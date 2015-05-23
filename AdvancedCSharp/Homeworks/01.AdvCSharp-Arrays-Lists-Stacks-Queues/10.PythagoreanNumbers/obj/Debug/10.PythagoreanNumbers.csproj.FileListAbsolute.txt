@@ -1,9 +1,0 @@
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
-C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb
