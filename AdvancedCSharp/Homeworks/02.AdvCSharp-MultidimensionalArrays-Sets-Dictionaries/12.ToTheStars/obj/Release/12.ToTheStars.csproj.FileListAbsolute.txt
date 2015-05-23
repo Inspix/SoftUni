@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\bin\Release\12.ToTheStars.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\bin\Release\12.ToTheStars.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\bin\Release\12.ToTheStars.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\obj\Release\12.ToTheStars.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\obj\Release\12.ToTheStars.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\obj\Release\12.ToTheStars.pdb

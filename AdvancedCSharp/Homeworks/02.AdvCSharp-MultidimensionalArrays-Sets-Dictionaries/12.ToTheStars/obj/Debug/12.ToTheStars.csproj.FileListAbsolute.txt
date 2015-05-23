@@ -1,1 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config

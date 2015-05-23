@@ -1,5 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\bin\Debug\10.Plus-Remove.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\obj\Debug\10.Plus-Remove.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\10.Plus-Remove\obj\Debug\10.Plus-Remove.pdb

@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
