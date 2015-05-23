@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\bin\Release\01.SeriesOfLetters.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\bin\Release\01.SeriesOfLetters.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\bin\Release\01.SeriesOfLetters.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\obj\Release\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\obj\Release\01.SeriesOfLetters.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\01.SeriesOfLetters\obj\Release\01.SeriesOfLetters.pdb

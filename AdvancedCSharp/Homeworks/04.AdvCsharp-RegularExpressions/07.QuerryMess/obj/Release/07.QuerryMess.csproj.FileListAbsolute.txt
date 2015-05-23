@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\bin\Release\07.QuerryMess.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\bin\Release\07.QuerryMess.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\bin\Release\07.QuerryMess.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\obj\Release\07.QuerryMess.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\obj\Release\07.QuerryMess.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\07.QuerryMess\obj\Release\07.QuerryMess.pdb

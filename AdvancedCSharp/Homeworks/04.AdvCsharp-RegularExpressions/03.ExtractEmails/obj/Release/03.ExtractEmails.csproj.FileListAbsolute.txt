@@ -1,5 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\03.ExtractEmails\bin\Release\03.ExtractEmails.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\03.ExtractEmails\bin\Release\03.ExtractEmails.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\03.ExtractEmails\bin\Release\03.ExtractEmails.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\03.ExtractEmails\obj\Release\03.ExtractEmails.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\03.ExtractEmails\obj\Release\03.ExtractEmails.pdb

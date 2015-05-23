@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\bin\Release\09.SemanticHtml.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\bin\Release\09.SemanticHtml.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\bin\Release\09.SemanticHtml.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\obj\Release\09.SemanticHtml.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\obj\Release\09.SemanticHtml.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\09.SemanticHtml\obj\Release\09.SemanticHtml.pdb

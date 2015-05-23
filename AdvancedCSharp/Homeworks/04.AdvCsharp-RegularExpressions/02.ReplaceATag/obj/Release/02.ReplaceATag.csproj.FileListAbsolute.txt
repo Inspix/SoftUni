@@ -1,9 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\bin\Release\02.ReplaceATag.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\obj\Release\02.ReplaceATag.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\bin\Release\02.ReplaceATag.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\bin\Release\02.ReplaceATag.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\obj\Release\02.ReplaceATag.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.ReplaceATag\obj\Release\02.ReplaceATag.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\02.ReplaceATag\bin\Release\02.ReplaceATag.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\02.ReplaceATag\obj\Release\02.ReplaceATag.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\02.ReplaceATag\obj\Release\02.ReplaceATag.pdb
