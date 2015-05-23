@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\bin\Release\11.CoupleFrequance.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\bin\Release\11.CoupleFrequance.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\bin\Release\11.CoupleFrequance.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\obj\Release\11.CoupleFrequance.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\obj\Release\11.CoupleFrequance.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\11.CoupleFrequance\obj\Release\11.CoupleFrequance.pdb

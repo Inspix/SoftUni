@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\bin\Release\12.LabyrinthDash.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\obj\Release\12.LabyrinthDash.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\bin\Release\12.LabyrinthDash.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\bin\Release\12.LabyrinthDash.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\obj\Release\12.LabyrinthDash.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\12.LabyrinthDash\obj\Release\12.LabyrinthDash.pdb

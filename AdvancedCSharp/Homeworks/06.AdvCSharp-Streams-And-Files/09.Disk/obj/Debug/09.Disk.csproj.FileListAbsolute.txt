@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\bin\Debug\09.Disk.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\bin\Debug\09.Disk.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\bin\Debug\09.Disk.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\obj\Debug\09.Disk.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\obj\Debug\09.Disk.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\09.Disk\obj\Debug\09.Disk.pdb

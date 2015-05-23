@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\bin\Debug\04.CopyBinnaryFile.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\bin\Debug\04.CopyBinnaryFile.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\bin\Debug\04.CopyBinnaryFile.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\obj\Debug\04.CopyBinnaryFile.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\obj\Debug\04.CopyBinnaryFile.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\6. Advanced-CSharp-Streams-And-Files\04.CopyBinnaryFile\obj\Debug\04.CopyBinnaryFile.pdb
