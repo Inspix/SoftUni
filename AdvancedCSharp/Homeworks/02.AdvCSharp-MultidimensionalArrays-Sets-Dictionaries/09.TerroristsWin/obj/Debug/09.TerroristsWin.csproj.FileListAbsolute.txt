@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\09.TerroristsWin\bin\Debug\09.TerroristsWin.exe.config

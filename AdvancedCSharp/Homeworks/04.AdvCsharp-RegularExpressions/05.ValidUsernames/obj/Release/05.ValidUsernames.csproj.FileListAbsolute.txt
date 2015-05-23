@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\bin\Release\05.ValidUsernames.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\obj\Release\05.ValidUsernames.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\bin\Release\05.ValidUsernames.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\bin\Release\05.ValidUsernames.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\obj\Release\05.ValidUsernames.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\05.ValidUsernames\obj\Release\05.ValidUsernames.pdb

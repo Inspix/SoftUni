@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\01.FillingMatrix\bin\Debug\01.FillingMatrix.exe.config

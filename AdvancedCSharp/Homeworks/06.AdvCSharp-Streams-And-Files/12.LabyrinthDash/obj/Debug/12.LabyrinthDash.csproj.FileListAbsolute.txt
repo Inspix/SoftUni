@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\bin\Debug\12.LabyrinthDash.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\bin\Debug\12.LabyrinthDash.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\bin\Debug\12.LabyrinthDash.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\obj\Debug\12.LabyrinthDash.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\obj\Debug\12.LabyrinthDash.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\12.LabyrinthDash\obj\Debug\12.LabyrinthDash.csprojResolveAssemblyReference.cache

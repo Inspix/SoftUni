@@ -1,0 +1,5 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\02.StringLength\bin\Release\02.StringLength.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\02.StringLength\bin\Release\02.StringLength.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\02.StringLength\bin\Release\02.StringLength.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\02.StringLength\obj\Release\02.StringLength.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\02.StringLength\obj\Release\02.StringLength.pdb

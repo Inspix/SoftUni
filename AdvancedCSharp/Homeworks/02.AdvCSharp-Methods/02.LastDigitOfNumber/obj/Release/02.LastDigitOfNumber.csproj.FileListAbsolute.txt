@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.AdvCSharp-Methods\02.LastDigitOfNumber\bin\Release\02.LastDigitOfNumber.exe.config

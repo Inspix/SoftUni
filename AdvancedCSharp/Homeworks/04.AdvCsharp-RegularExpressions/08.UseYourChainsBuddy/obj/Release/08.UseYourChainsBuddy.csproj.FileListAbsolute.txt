@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\bin\Release\08.UseYourChainsBuddy.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\bin\Release\08.UseYourChainsBuddy.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\bin\Release\08.UseYourChainsBuddy.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\obj\Release\08.UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\obj\Release\08.UseYourChainsBuddy.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\08.UseYourChainsBuddy\obj\Release\08.UseYourChainsBuddy.pdb

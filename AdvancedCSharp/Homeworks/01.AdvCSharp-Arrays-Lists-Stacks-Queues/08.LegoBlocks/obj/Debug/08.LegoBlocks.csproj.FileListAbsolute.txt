@@ -1,0 +1,12 @@
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.pdb
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb

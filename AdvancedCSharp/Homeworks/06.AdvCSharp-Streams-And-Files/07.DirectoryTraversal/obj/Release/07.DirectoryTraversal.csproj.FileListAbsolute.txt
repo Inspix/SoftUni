@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\bin\Release\07.DirectoryTraversal.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\bin\Release\07.DirectoryTraversal.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\bin\Release\07.DirectoryTraversal.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\obj\Release\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\obj\Release\07.DirectoryTraversal.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\07.DirectoryTraversal\obj\Release\07.DirectoryTraversal.pdb

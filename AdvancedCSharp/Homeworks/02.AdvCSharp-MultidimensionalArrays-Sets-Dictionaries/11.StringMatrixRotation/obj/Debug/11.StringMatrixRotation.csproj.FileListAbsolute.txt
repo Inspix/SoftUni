@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config

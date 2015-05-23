@@ -1,0 +1,5 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\01.ReverseString\bin\Release\01.ReverseString.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\01.ReverseString\bin\Release\01.ReverseString.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\01.ReverseString\bin\Release\01.ReverseString.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\01.ReverseString\obj\Release\01.ReverseString.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\01.ReverseString\obj\Release\01.ReverseString.pdb

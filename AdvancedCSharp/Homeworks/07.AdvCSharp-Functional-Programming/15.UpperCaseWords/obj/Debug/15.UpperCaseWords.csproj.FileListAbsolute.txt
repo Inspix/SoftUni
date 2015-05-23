@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\bin\Debug\15.UpperCaseWords.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\bin\Debug\15.UpperCaseWords.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\bin\Debug\15.UpperCaseWords.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\obj\Debug\15.UpperCaseWords.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\obj\Debug\15.UpperCaseWords.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\15.UpperCaseWords\obj\Debug\15.UpperCaseWords.pdb

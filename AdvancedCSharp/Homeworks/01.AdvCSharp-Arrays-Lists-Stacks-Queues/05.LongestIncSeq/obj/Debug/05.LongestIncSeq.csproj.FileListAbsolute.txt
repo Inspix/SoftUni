@@ -1,0 +1,15 @@
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.exe.config
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.exe
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.pdb
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.csprojResolveAssemblyReference.cache
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.exe
+C:\Users\Inspiritus\Documents\Visual Studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.pdb
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\bin\Debug\05.LongestIncSeq.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\05.LongestIncSeq\obj\Debug\05.LongestIncSeq.csprojResolveAssemblyReference.cache

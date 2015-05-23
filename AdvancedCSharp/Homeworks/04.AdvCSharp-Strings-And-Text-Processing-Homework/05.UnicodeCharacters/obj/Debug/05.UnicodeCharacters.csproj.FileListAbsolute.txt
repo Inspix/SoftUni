@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config

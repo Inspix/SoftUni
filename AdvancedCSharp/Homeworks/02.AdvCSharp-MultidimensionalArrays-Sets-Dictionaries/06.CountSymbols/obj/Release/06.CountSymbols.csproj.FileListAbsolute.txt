@@ -1,0 +1,5 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Release\06.CountSymbols.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Release\06.CountSymbols.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\bin\Release\06.CountSymbols.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\obj\Release\06.CountSymbols.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\06.CountSymbols\obj\Release\06.CountSymbols.pdb

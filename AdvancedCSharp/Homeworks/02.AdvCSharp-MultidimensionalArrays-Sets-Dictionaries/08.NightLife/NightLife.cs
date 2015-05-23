@@ -48,7 +48,7 @@ class NightLife
 
 class Avenue
 {
-    public SortedDictionary<string, SortedSet<string>> Avenues { get; set; }
+    public SortedDictionary<string, SortedSet<string>> Avenues;
 
     public Avenue(string avenueName, string performer)
     {

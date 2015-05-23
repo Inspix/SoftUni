@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\bin\Release\06.ExtractHyperlinks.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\bin\Release\06.ExtractHyperlinks.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\bin\Release\06.ExtractHyperlinks.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\obj\Release\06.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\obj\Release\06.ExtractHyperlinks.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\06.ExtractHyperlinks\obj\Release\06.ExtractHyperlinks.pdb

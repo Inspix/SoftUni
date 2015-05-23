@@ -1,0 +1,11 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\13.ExcelStudents.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\13.ExcelStudents.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\13.ExcelStudents.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\EPPlus.dll
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\EPPlus.xml
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\obj\Debug\13.ExcelStudents.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\obj\Debug\13.ExcelStudents.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\13.ExcelStudents\obj\Debug\13.ExcelStudents.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni\AdvancedCSharp\Homeworks\07.AdvCSharp-Functional-Programming\13.ExcelStudents\bin\Debug\13.ExcelStudents.exe.config
+E:\Program Files\CSharpProjects\SoftUni\AdvancedCSharp\Homeworks\07.AdvCSharp-Functional-Programming\13.ExcelStudents\obj\Debug\13.ExcelStudents.exe
+E:\Program Files\CSharpProjects\SoftUni\AdvancedCSharp\Homeworks\07.AdvCSharp-Functional-Programming\13.ExcelStudents\obj\Debug\13.ExcelStudents.pdb

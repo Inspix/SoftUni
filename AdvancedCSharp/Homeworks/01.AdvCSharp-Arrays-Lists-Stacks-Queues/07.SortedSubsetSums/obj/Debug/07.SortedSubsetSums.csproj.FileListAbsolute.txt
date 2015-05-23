@@ -1,0 +1,9 @@
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb
+C:\Users\Inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb

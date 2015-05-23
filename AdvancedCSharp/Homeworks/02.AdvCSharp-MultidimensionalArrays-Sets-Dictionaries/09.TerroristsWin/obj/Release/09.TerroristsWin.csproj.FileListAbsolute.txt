@@ -1,0 +1,9 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\bin\Release\09.TerroristsWin.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\bin\Release\09.TerroristsWin.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\bin\Release\09.TerroristsWin.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\obj\Release\09.TerroristsWin.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\obj\Release\09.TerroristsWin.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\09.TerroristsWin\obj\Release\09.TerroristsWin.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\09.TerroristsWin\bin\Release\09.TerroristsWin.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\09.TerroristsWin\obj\Release\09.TerroristsWin.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\09.TerroristsWin\obj\Release\09.TerroristsWin.pdb

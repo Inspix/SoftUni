@@ -1,0 +1,9 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\bin\Release\08.NightLife.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\obj\Release\08.NightLife.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\bin\Release\08.NightLife.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\bin\Release\08.NightLife.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\obj\Release\08.NightLife.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\08.NightLife\obj\Release\08.NightLife.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\08.NightLife\bin\Release\08.NightLife.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\08.NightLife\obj\Release\08.NightLife.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-MultidimensionalArrays-Sets-Dictionaries\08.NightLife\obj\Release\08.NightLife.pdb

@@ -1,0 +1,8 @@
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

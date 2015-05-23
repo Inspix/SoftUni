@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\bin\Release\03.SubstringCount.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\bin\Release\03.SubstringCount.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\bin\Release\03.SubstringCount.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\obj\Release\03.SubstringCount.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\obj\Release\03.SubstringCount.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\03.SubstringCount\obj\Release\03.SubstringCount.pdb

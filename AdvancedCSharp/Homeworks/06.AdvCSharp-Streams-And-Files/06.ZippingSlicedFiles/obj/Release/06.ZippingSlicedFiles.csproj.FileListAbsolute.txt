@@ -1,0 +1,1 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\06. Advanced-CSharp-Streams-And-Files\06.ZippingSlicedFiles\bin\Release\06.ZippingSlicedFiles.exe.config

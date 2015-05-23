@@ -1,0 +1,11 @@
+c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+c:\users\inspiritus\documents\visual studio 2013\Projects\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\01.AdvCSharp-Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache

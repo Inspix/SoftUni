@@ -1,0 +1,2 @@
+E:\Program Files\CSharpProjects\AdvancedCSharp\06.NumberCalculations\bin\Release\06.NumberCalculations.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\02.AdvCSharp-Methods\06.NumberCalculations\bin\Release\06.NumberCalculations.exe.config

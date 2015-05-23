@@ -1,0 +1,5 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\bin\Release\04.TextFilter.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\bin\Release\04.TextFilter.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\bin\Release\04.TextFilter.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\obj\Release\04.TextFilter.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\04.TextFilter\obj\Release\04.TextFilter.pdb

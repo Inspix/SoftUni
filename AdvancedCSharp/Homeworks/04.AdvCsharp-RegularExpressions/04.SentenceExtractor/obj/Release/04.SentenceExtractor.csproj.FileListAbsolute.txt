@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\bin\Release\04.SentenceExtractor.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\bin\Release\04.SentenceExtractor.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\bin\Release\04.SentenceExtractor.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\obj\Release\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\obj\Release\04.SentenceExtractor.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCsharp-RegularExpressions\04.SentenceExtractor\obj\Release\04.SentenceExtractor.pdb

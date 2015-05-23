@@ -1,0 +1,6 @@
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\04.AdvCSharp-Strings-And-Text-Processing-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb

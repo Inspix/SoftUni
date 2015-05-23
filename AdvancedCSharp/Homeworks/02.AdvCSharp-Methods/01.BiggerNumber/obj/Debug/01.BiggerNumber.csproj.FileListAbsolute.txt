@@ -1,0 +1,11 @@
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+E:\Program Files\CSharpProjects\AdvancedCSharp\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\02.AdvCSharp-Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
