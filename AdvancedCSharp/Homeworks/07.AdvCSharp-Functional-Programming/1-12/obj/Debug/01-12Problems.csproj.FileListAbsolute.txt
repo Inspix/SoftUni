@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\bin\Debug\01-12Problems.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\bin\Debug\01-12Problems.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\bin\Debug\01-12Problems.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\obj\Debug\01-12Problems.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\obj\Debug\01-12Problems.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\1-12\obj\Debug\01-12Problems.csprojResolveAssemblyReference.cache

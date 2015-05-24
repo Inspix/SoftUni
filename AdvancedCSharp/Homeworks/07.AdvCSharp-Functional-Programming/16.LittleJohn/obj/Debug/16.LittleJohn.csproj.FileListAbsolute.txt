@@ -1,6 +1,0 @@
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\bin\Debug\16.LittleJohn.exe.config
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\bin\Debug\16.LittleJohn.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\bin\Debug\16.LittleJohn.pdb
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\obj\Debug\16.LittleJohn.csprojResolveAssemblyReference.cache
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\obj\Debug\16.LittleJohn.exe
-E:\Program Files\CSharpProjects\SoftUni2\AdvancedCSharp\07.AdvCSharp-Functional-Programming\16.LittleJohn\obj\Debug\16.LittleJohn.pdb
