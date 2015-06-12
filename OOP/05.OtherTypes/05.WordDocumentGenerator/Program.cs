@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -10,8 +10,6 @@ namespace _05.WordDocumentGenerator
 {
     class Program
     {
-        //������� ��������� ���� � ����������, ������ ������ �� ���������.. 
-        //������ ��������� � ����� Content ����� �����.
         static void Main()
         {
             using (StreamReader sr = new StreamReader("Content/text.txt",Encoding.UTF8))
