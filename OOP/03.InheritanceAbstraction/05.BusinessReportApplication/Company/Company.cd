@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Company.Person">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAgAAEAAAAAAAAAAAAAAAAAAAACAAAAgg=</HashCode>
+      <FileName>Company\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Company.Employee">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAEAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Company.Manager">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Company.RegularEmployee">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\RegularEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company.Customer">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Company\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company.SalesEmployee">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Company.SalesEmployee.Sale" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Company\SalesEmployee.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\SalesEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company.Developer">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Company.Developer.Project" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Company\Developer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Company\Developer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Company.IPerson">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Company\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company.IManager">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company.IEmployee">
+    <Position X="12.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company\IEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
