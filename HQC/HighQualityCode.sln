@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Calculations", "02.Namin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MineSweeper", "02.NamingIdentifiers\MineSweeper\3. MineSweeper.csproj", "{E2B7BED8-5433-40ED-9870-4E775782E5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StringExtensions", "04.CodeDocumentation\01.StringExtentions\01.StringExtensions.csproj", "{0F6783DB-1343-49A6-8EBE-5981F4DF2E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InterfaceDocumentation", "04.CodeDocumentation\02.InterfaceDocumentation\02.InterfaceDocumentation.csproj", "{B005C0B3-5C89-45A7-9BE1-FAB966806F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +67,7 @@ Global
 		{32FFFB9D-C7B7-4D0B-9392-231F62595912} = {740CB11E-E966-4083-95E4-4DB9F5C2CC53}
 		{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD} = {740CB11E-E966-4083-95E4-4DB9F5C2CC53}
 		{E2B7BED8-5433-40ED-9870-4E775782E5ED} = {740CB11E-E966-4083-95E4-4DB9F5C2CC53}
+		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60} = {182F63C6-E1C2-474A-902A-F852B6DCA1F9}
+		{B005C0B3-5C89-45A7-9BE1-FAB966806F40} = {182F63C6-E1C2-474A-902A-F852B6DCA1F9}
 	EndGlobalSection
 EndGlobal
