@@ -23,6 +23,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StringExtensions", "04.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InterfaceDocumentation", "04.CodeDocumentation\02.InterfaceDocumentation\02.InterfaceDocumentation.csproj", "{B005C0B3-5C89-45A7-9BE1-FAB966806F40}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.HighQualityMethods", "07.HighQualityMethods", "{160B47D2-DC8D-4F5B-8837-4BE78C34ACC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.HighQualityClasses", "08.HighQualityClasses", "{81A88B3D-0B3C-4AED-90A5-D50E65A379BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "07.High-Quality-Methods\Methods.csproj", "{C041AAA8-7BA0-4385-A678-1D9003C1952D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "08.High-Quality-Classes\Abstraction\Abstraction.csproj", "{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohesion-and-Coupling", "08.High-Quality-Classes\Cohesion-and-Coupling\Cohesion-and-Coupling.csproj", "{268AEC63-DABA-4607-8E60-997E09EB5F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance-and-Polymorphism", "08.High-Quality-Classes\Inheritance-and-Polymorphism\Inheritance-and-Polymorphism.csproj", "{CC40B053-CC90-4956-8591-01AC016C3188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +69,22 @@ Global
 		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B005C0B3-5C89-45A7-9BE1-FAB966806F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C041AAA8-7BA0-4385-A678-1D9003C1952D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C041AAA8-7BA0-4385-A678-1D9003C1952D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C041AAA8-7BA0-4385-A678-1D9003C1952D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C041AAA8-7BA0-4385-A678-1D9003C1952D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268AEC63-DABA-4607-8E60-997E09EB5F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268AEC63-DABA-4607-8E60-997E09EB5F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268AEC63-DABA-4607-8E60-997E09EB5F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268AEC63-DABA-4607-8E60-997E09EB5F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC40B053-CC90-4956-8591-01AC016C3188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC40B053-CC90-4956-8591-01AC016C3188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC40B053-CC90-4956-8591-01AC016C3188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC40B053-CC90-4956-8591-01AC016C3188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,5 +97,9 @@ Global
 		{E2B7BED8-5433-40ED-9870-4E775782E5ED} = {740CB11E-E966-4083-95E4-4DB9F5C2CC53}
 		{0F6783DB-1343-49A6-8EBE-5981F4DF2E60} = {182F63C6-E1C2-474A-902A-F852B6DCA1F9}
 		{B005C0B3-5C89-45A7-9BE1-FAB966806F40} = {182F63C6-E1C2-474A-902A-F852B6DCA1F9}
+		{C041AAA8-7BA0-4385-A678-1D9003C1952D} = {160B47D2-DC8D-4F5B-8837-4BE78C34ACC4}
+		{E2BD3DC8-7DD6-4349-BEAA-7A0BC38846DE} = {81A88B3D-0B3C-4AED-90A5-D50E65A379BE}
+		{268AEC63-DABA-4607-8E60-997E09EB5F2C} = {81A88B3D-0B3C-4AED-90A5-D50E65A379BE}
+		{CC40B053-CC90-4956-8591-01AC016C3188} = {81A88B3D-0B3C-4AED-90A5-D50E65A379BE}
 	EndGlobalSection
 EndGlobal
