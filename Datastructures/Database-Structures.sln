@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Datastructures-Algorithms-and-Complexity", "01.Datastructures-Algorithms-and-Complexity", "{6A60A435-1B72-4A15-B225-5334545D933C}"
 EndProject
@@ -42,6 +42,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SequenceNtoM", "03.LinearDataStructuresStackQueue\08.SequenceNtoM\08.SequenceNtoM.csproj", "{88AF31B9-1182-4BBB-848D-D75DFDC9DCC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseNumbers", "03.LinearDataStructuresStackQueue\01.ReverseNumbers\01.ReverseNumbers.csproj", "{24A75CED-6DC5-4921-ABE2-8C74C505C285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.TreesAndTreeLikeStructures", "04.TreesAndTreeLikeStructures", "{E3DB960E-C8E5-43FD-90E2-2E16E20DF111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PlayWithTrees", "04.TreesandTree-LikeDataStructures\01.PlayWithTrees\01.PlayWithTrees.csproj", "{C18DD27E-7ED3-4DF8-BC18-29F218696651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TraverseandSaveDirectoryContentsinaTree", "04.TreesandTree-LikeDataStructures\02.TraverseandSaveDirectoryContentsinaTree\02.TraverseandSaveDirectoryContentsinaTree.csproj", "{F7E26E38-9E87-49D5-9177-670CFAF925CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CalculateArithmeticExpression", "04.TreesandTree-LikeDataStructures\03.CalculateArithmeticExpression\03.CalculateArithmeticExpression.csproj", "{8A469679-4665-460B-BC8E-10218BECA25D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +335,54 @@ Global
 		{24A75CED-6DC5-4921-ABE2-8C74C505C285}.Release|x64.Build.0 = Release|Any CPU
 		{24A75CED-6DC5-4921-ABE2-8C74C505C285}.Release|x86.ActiveCfg = Release|Any CPU
 		{24A75CED-6DC5-4921-ABE2-8C74C505C285}.Release|x86.Build.0 = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|ARM.Build.0 = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|x64.Build.0 = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Debug|x86.Build.0 = Debug|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|ARM.Build.0 = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|x64.ActiveCfg = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|x64.Build.0 = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|x86.ActiveCfg = Release|Any CPU
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651}.Release|x86.Build.0 = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|ARM.Build.0 = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|ARM.Build.0 = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|x64.Build.0 = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE}.Release|x86.Build.0 = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Debug|x86.Build.0 = Debug|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|ARM.Build.0 = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|x64.Build.0 = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A469679-4665-460B-BC8E-10218BECA25D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -349,5 +405,8 @@ Global
 		{1F08210A-058D-4D9A-91E7-180522168DAA} = {435A5855-D5D8-4E5B-8270-5B8B710EBD1A}
 		{88AF31B9-1182-4BBB-848D-D75DFDC9DCC5} = {435A5855-D5D8-4E5B-8270-5B8B710EBD1A}
 		{24A75CED-6DC5-4921-ABE2-8C74C505C285} = {435A5855-D5D8-4E5B-8270-5B8B710EBD1A}
+		{C18DD27E-7ED3-4DF8-BC18-29F218696651} = {E3DB960E-C8E5-43FD-90E2-2E16E20DF111}
+		{F7E26E38-9E87-49D5-9177-670CFAF925CE} = {E3DB960E-C8E5-43FD-90E2-2E16E20DF111}
+		{8A469679-4665-460B-BC8E-10218BECA25D} = {E3DB960E-C8E5-43FD-90E2-2E16E20DF111}
 	EndGlobalSection
 EndGlobal
