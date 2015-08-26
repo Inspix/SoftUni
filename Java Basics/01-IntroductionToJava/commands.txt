@@ -1,0 +1,2 @@
+javac -cp . com/softuni/homeworkone/*.java
+java -cp . com/softuni/homeworkone/Main
