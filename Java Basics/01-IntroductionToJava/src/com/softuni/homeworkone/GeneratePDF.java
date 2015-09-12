@@ -4,10 +4,15 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import com.itextpdf.text.BaseColor;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.DocumentException;
+import com.itextpdf.text.Font;
+import com.itextpdf.text.FontFactory;
+import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.BaseFont;
 import com.itextpdf.text.pdf.PdfContentByte;
+import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 
 public class GeneratePDF {
@@ -35,7 +40,8 @@ public class GeneratePDF {
 		
 		try {
 			PdfWriter writer = PdfWriter.getInstance(doc, new FileOutputStream("Test.pdf"));
-			font = BaseFont.createFont("c:/windows/fonts/arialbd.ttf",BaseFont.IDENTITY_H,BaseFont.EMBEDDED);
+			Font getFont = FontFactory.getFont("fonts/timesi.ttf",BaseFont.IDENTITY_H);
+			font = getFont.getBaseFont();
 			doc.open();
 			top = doc.top();	
 			PdfContentByte canvas = writer.getDirectContent();
@@ -62,6 +68,47 @@ public class GeneratePDF {
 		} catch (DocumentException e) {
 			e.printStackTrace();
 		}
+		
+		try {
+            Document document = new Document();
+            PdfWriter.getInstance(document, new FileOutputStream("DeckOfCards.pdf"));                      
+            document.open();
+           
+            PdfPTable table = new PdfPTable(4);
+            table.setWidthPercentage(100);
+            table.getDefaultCell().setFixedHeight(180);
+
+            BaseFont baseFont = BaseFont.createFont("times.ttf", BaseFont.IDENTITY_H, true);
+            Font black = new Font(baseFont, 60f, 0, BaseColor.BLACK);
+            Font red = new Font(baseFont, 60f, 0, BaseColor.RED);
+           
+            String card = "";
+            String color = "";
+           
+            for (int i = 2; i <= 14; i++) {
+                    switch (i) {
+                    case 10: card = "10"; break;
+                    case 11: card = " J"; break;
+                    case 12: card = " Q"; break;
+                    case 13: card = " K"; break;
+                    case 14: card = " A"; break;
+                    default: card = " " + i; break;
+                    }
+                    for (int j = 1; j <= 4; j++) {
+                            switch (j) {
+                            case 1: color = "\u2666"; table.addCell(new Paragraph(String.format("%s%s", card, color), black)); break;
+                            case 2: color = "\u2665"; table.addCell(new Paragraph(String.format("%s%s", card, color), red)); break;
+                            case 3: color = "\u2660"; table.addCell(new Paragraph(String.format("%s%s", card, color), black)); break;
+                            case 4: color = "\u2663"; table.addCell(new Paragraph(String.format("%s%s", card, color), red)); break;
+                            }
+                    }
+            }
+            document.add(table);
+            document.close();
+		}
+        catch (Exception e) {
+                e.printStackTrace();
+        }
 	}
 	
 	private float getSpacing(int col){

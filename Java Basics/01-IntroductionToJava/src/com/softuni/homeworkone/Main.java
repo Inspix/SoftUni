@@ -22,6 +22,5 @@ public class Main {
 
 		GeneratePDF.Run(); // Generate a PDF by External Library
 		System.out.println("Press enter...");
-		System.in.read();
 	}
 }
