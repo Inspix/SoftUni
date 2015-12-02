@@ -1,0 +1,16 @@
+body {
+    background: #aaddee
+}
+
+img {
+    width:150px;
+    border:1px solid black;
+}
+
+.info p {
+    margin:0;
+}
+
+.info span {
+    font-weight: bold;
+}
