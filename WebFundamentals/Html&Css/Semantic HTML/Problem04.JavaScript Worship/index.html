@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>JavaScript Worship</title>
+    </head>
+    
+    <body onload="draw();">
+        <canvas width="246" height="266" id="canvas">
+        </canvas>
+    </body>
+    <script type="text/javascript">
+        function draw(){
+            var canvas = document.getElementById("canvas");
+            var context = canvas.getContext("2d");
+
+            context.setLineDash([3,3]);
+            context.lineWidth = 3;
+            context.strokeStyle = "red";
+            context.strokeRect(0,0,canvas.width,canvas.height);
+            context.font = "28px Arial"
+            context.fillText("I love JavaScript",20,40);
+            context.fillStyle = "#F1DA4E";
+            context.fillRect(55,82,134,134)
+            context.fillStyle = "black";
+            context.font = "80px Arial";
+            context.fillText("JS",93,205);
+        }
+    
+    </script>
+</html>

@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Kent's Profile</title>   
+        <style>
+            
+            .wrapper {
+                background: pink;
+                padding:20px;
+                width:75%;
+                margin:auto;
+                border-radius: 15px;
+            }
+            
+            figure {
+                display:inline-block;
+                padding:0;
+                margin:0px 2px;
+            }
+            
+            figcaption, h1{
+                font-family: sans-serif;
+            }
+            
+            meter {
+                width:180px;
+                height: 23px;                
+            }
+            
+            .audio {
+                width:250px;
+            }
+            
+            audio {
+                width:250px;
+                height:27px;
+            }
+            
+            h1 {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="wrapper">
+            <h1>Profile</h1>
+            <figure class="profile">
+            <figcaption>User: Kent</figcaption>
+            <img src="KentProfilePic.png"/>
+            <figcaption>Profile completed 60%</figcaption>
+            <meter value="0.6">60%</meter>
+        </figure>
+         <figure class="audio">
+            <figcaption>Uploaded Audio files</figcaption>
+            <embed height="122" width="250px" src="http://www.w3schools.com/tags/horse.ogg"/>
+            <audio controls>
+             <source src="http://www.w3schools.com/tags/horse.ogg"/>
+             </audio>
+             <audio controls>
+             <source src="http://www.w3schools.com/tags/horse.ogg"/>
+             </audio>
+             <audio controls>
+             <source src="http://www.w3schools.com/tags/horse.ogg"/>
+             </audio>
+        </figure>
+        <figure class="video">
+            <figcaption>Uploaded Audio files</figcaption>
+            <video controls width="450" height="218">
+            <source src="http://www.w3schools.com/tags/movie.mp4" type="video/mp4"
+            </video>
+        </figure>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Life in SoftUni Keyboard</title>
+    <style>
+        * {
+            font-family: sans-serif;
+            font-weight: bold;            
+            box-sizing: border-box;
+        }
+        
+        table.main-table,th,td {
+            border:1px solid black;
+        }
+       
+        .right {
+            text-align: right;
+        }
+
+        .main-table td, .main-table th {
+            padding:5px;
+            min-width:112px;
+            width:112px;
+            min-height: 112px;
+            height:112px;
+        }
+        .main-table button {
+            min-height: 112px;
+        }
+
+        span {
+            font-size: 250%;
+        }
+        
+        .inner-table td,.inner-table th {
+            padding:0;
+            border:none;
+            min-height: 56px;
+            height: 56px;
+            width:100%;
+            
+        }
+        
+        .inner-table {
+            border:none;
+        }
+        
+        .inner-table button {
+            min-height: 56px;
+        }
+        
+        button {
+            width:100%;
+            height:100%; 
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+    <table class="main-table">
+        <thead>
+            <tr>
+                <th colspan="4"><button type="submit" onclick="window.open('http://softuni.bg')"><span>SOFTWARE UNIVERSITY</span></button></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2"><button type="submit" onclick="window.open('https://www.google.com')">Google</button></td>
+                <td colspan="2"><button type="submit" onclick="window.open('https://www.github.com')">GitHub</button></td>
+            </tr>
+            <tr>
+                <td ><button type="submit" onclick="window.open('https://www.google.com')">Facebook</button></td>
+                <td><button type="submit" onclick="window.open('https://www.gmail.com')">GMail</button></td>
+                <td><button type="submit" onclick="window.open('https://www.youtube.com')">YouTube</button></td>
+                <td><button type="submit" onclick="window.open('http://2048game.com/')">2048</button></td>
+            </tr>
+            <tr>
+                <td><button type="submit" onclick="window.open('http://food.com/')">Food</button></td>
+                <td colspan="2"><button type="submit" onclick="window.open('http://game.com/')">Game</button></td>
+                <td>
+                    <table>
+                        <tbody class="inner-table center">
+                        <tr>
+                            <td><button type="submit" onclick="window.open('http://sociallife.com/')">Social life</button></td>
+                        </tr>
+                        <tr>
+                            <td><button type="submit" onclick="window.open('http://2048game.com/')">Sleep</button></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3"><button class="right" type="submit" onclick="window.open('http://beer.com/')"><span>Beer&gt;&gt;&gt;</span></button></td>
+                <td><button type="submit" onclick="window.open('http://wc.com/')">WC</button><strong></strong></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

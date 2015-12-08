@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Life in SoftUni</title>
+    <style>
+        * {
+            font-family: sans-serif;
+            font-weight: bold;
+            box-sizing: border-box;
+        }
+        
+        table,td,th {
+            border:1px solid black;
+        }
+        
+        .top {
+            vertical-align: top;
+        }        
+        .bottom {
+            vertical-align: bottom;
+        }        
+        .left {
+            text-align: left;
+        }
+        
+        .right {
+            text-align: right;
+        }
+        .center {            
+            text-align: center;
+        }
+        .vcenter {
+            vertical-align: center;
+        }
+
+        .main-table td, .main-table th {
+            padding:5px;
+            min-width:112px;
+            width:112px;
+            min-height: 112px;
+            height:112px;
+        }
+
+        span {
+            font-size: 350%;
+        }
+        
+        .inner-table td,.inner-table th {            
+            height: 56px;
+            width:100%;
+        }
+    </style>
+</head>
+<body>
+    <table class="main-table">
+        <thead>
+            <tr>
+                <th colspan="4"><span>SoftUni LIFE</span></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2" class="top">Google</td>
+                <td colspan="2" class="top right">GitHub</td>
+            </tr>
+            <tr>
+                <td class="top center">FB</td>
+                <td>GMail</td>
+                <td class="bottom center">YouTube</td>
+                <td>2048</td>
+            </tr>
+            <tr>
+                <td class="bottom right">Food</td>
+                <td colspan="2" class="bottom left">Game</td>
+                <td>
+                    <table>
+                        <tbody class="inner-table center">
+                        <tr>
+                            <td>Social life</td>
+                        </tr>
+                        <tr>
+                            <td>Sleep</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" class="right"><h3>Beer &gt;</h3></td>
+                <td class="left"><strong>WC</strong></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

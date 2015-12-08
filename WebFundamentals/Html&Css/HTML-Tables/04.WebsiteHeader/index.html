@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Website Header</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+        <script type="text/javascript">
+            function toggle(element){
+                var toggles = document.getElementsByName("menu-toggle");                
+                for(var i = 0; i < toggles.length; i++){                    
+                    if(toggles[i] != element){
+                        toggles[i].checked = false;
+                    }
+                }
+            }
+            
+            function hideMenus(){
+                var toggles = document.getElementsByName("menu-toggle");                
+                for(var i = 0; i < toggles.length; i++){                    
+                        toggles[i].checked = false;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <table>
+            <tbody>
+                <tr>
+                    <td class="header" onclick="hideMenus();">
+                        <a href="http://softuni.bg"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 74 40" style="enable-background:new 0 0 50 50;" xml:space="preserve"><style type="text/css">.st5{font-family:'ArialNarrow';}.st6{font-size:5px;}.st7{fill:#fff;stroke:none;stroke-miterlimit:10;}</style><path class="st7" d="M55.5,23.1c-2.2-1.6-9-6.1-18.8-6c-9.5,0.1-16,4.4-18.2,6c0,5.6,0,11.3,0,16.9h37V23.1z"/><path class="st7" d="M16.5,22c0,2.1,0,4.3,0,6.6L0,21.5L37,0l37,21.5L57.5,29c0-2.5,0-4.8,0-7c-2.3-1.8-10-7.7-21.3-7.4C25.9,14.8,18.9,20.1,16.5,22z"/><text transform="matrix(1 0 0 1 3.8332 31.25)" class="st5 st6">@</text><line id="XMLID_4_" x1="6" y1="25" x2="6" y2="27.8"/></svg>
+                        <div><span>Software</span><br/><span class="bigger">University</span></div></a>                        
+                    </td>
+                    <td>
+                        <ul class="main-menu">
+                            <li><input id="softuni-toggle" name="menu-toggle" onclick="toggle(this)" type="checkbox" class="togglebox">
+                                <label for="softuni-toggle" class="dropdown">Softuni</label>                                
+                                <div class="content">
+                                    <table class="plain-table">
+                                        <tbody>
+                                            <tr>
+                                                <td><a href="https://softuni.bg/about">About</a></td>
+                                                <td><a href="https://softuni.bg/diplomas-and-certificates">Diplomas and certificates</a></td>
+                                                <td><a href="https://softuni.bg/plans">Fees and scholarships</a></td>
+                                                <td><a href="https://softuni.bg/university-partners">Partner universities</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><a href="https://softuni.bg/curriculum">Curriculum</a></td>
+                                                <td><a href="https://softuni.bg/trainers">Technical Trainers</a></td>
+                                                <td><a href="https://softuni.bg/how-to-apply">How to apply</a></td>
+                                                <td><a href="https://softuni.bg/faq">
+    Frequently asked questions
+</a></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </li>
+                            <li><input id="trainings-toggle"  name="menu-toggle" onclick="toggle(this)" type="checkbox" class="togglebox">
+                                <label for="trainings-toggle" class="dropdown">Trainings</label>                                
+                                <div class="content">
+                                    <table class="plain-table">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <dl>
+                                                        <dt><span>0</span> Basic Level</dt>
+                                                        <dd>Programming Basics - October 2015</dd>
+                                                        <dd>Programming Basics - October 2015 - Plovdiv</dd>
+                                                        <dd>Programming Basics - October 2015 - Varna</dd>
+                                                        <dd>Programming Basics - October 2015 - Burgas</dd>
+                                                        <dd>Programming Basics - October 2015 - Ruse</dd>
+                                                        <dd>Programming Basics - November 2015</dd>
+                                                        <dd>Programming Basics - December 2015</dd>
+                                                        <dt><span>1</span> Fundamentals Level</dt>
+                                                        <dd>Teamwork and Personal Skills - September 2015</dd>
+                                                        <dd>Object-Oriented Programming November 2015</dd>                                                       
+                                                    </dl>
+                                                </td>
+                                                <td><dl>
+                                                        <dt><span>2</span> Advanced Level - Front-end</dt>
+                                                        <dd>Web Fundamentals (HTML/CSS) November 2015</dd>
+                                                        <dt><span>2</span> Advanced Level - Back-end</dt>
+                                                        <dd>Web Development Basics - September 2015</dd> 
+                                                        <dt>All courses</dt>
+                                                        <dd></dd>
+                                                    
+                                                    </dl>
+                                                </td>
+                                                <td>
+                                                    <dl>
+                                                        <dt>Open courses</dt>
+                                                        <dd>Algorithms - September 2015</dd>
+                                                        <dd>Workshop for Computer Games: HTML5 - level 1 - September 2015</dd>
+                                                        <dd>C Programming - October 2015</dd>
+                                                        <dd>Photoshop - October 2015</dd>
+                                                        <dd>Web Fundamentals (HTML/CSS) - October 2015 - Plovdiv</dd>
+                                                        <dd>Crash Course in UX - November 2015</dd>
+                                                        <dd>Web Fundamentals (HTML/CSS) - November 2015</dd>
+                                                        <dd>Soft Skills – Business Course for Leaders - November 2015</dd>
+                                                        <dd>JavaScript Basics - January 2016</dd>
+                                                    
+                                                        <dt>Seminars</dt>
+                                                        <dd>Be Brave, Be Yourself!</dd>
+                                                        <dd>Drones for Programmers</dd>
+                                                        <dd>Jiu-jitsu - Philosophy and Principles</dd>                                                        
+                                                    </dl>    
+                                                </td>
+                                                
+                                            </tr>
+                                        </tbody>
+                                    </table></div>
+                            </li>
+                           <!-- <li><a href="#" class="dropdown">Trainings</a></li>-->
+                            <li><a href="#">Jobs</a></li>
+                            <li><a href="#">Partners</a></li>
+                            <li><a href="#">Forum</a></li>
+                            <li><a href="#">Contacts</a></li>                        
+                        </ul>
+                    </td>
+                    <td class="button">
+                        <input type="checkbox" id="search" name="menu-toggle" class="togglebox" onclick="toggle(this)">
+                        <label for="search">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18" height="20" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><style type="text/css">.st0{fill:#90A1B1;stroke:#90A1B1;stroke-width:4;stroke-miterlimit:10;}.st1{fill:none;stroke:#90A1B1;stroke-width:8;stroke-miterlimit:10;}</style><g><g><ellipse class="st1" cx="21.3" cy="22.7" rx="18.1" ry="18.6"/><path class="st0 " d="M33.3,39.8c2.2,2.2,4.5,4.5,6.7,6.7c2.7,2.7,7-1.5,4.2-4.2c-2.2-2.2-4.5-4.5-6.7-6.7 C34.8,32.8,30.6,37,33.3,39.8L33.3,39.8z"/></g></g></svg>
+                        </label>
+                        <div class="content">
+                            <table class="plain-table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18" height="20" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><style type="text/css">.st0{fill:#90A1B1;stroke:#90A1B1;stroke-width:4;stroke-miterlimit:10;}.st1{fill:none;stroke:#90A1B1;stroke-width:8;stroke-miterlimit:10;}</style><g><g><ellipse class="st1" cx="21.3" cy="22.7" rx="18.1" ry="18.6"/><path class="st0 " d="M33.3,39.8c2.2,2.2,4.5,4.5,6.7,6.7c2.7,2.7,7-1.5,4.2-4.2c-2.2-2.2-4.5-4.5-6.7-6.7 C34.8,32.8,30.6,37,33.3,39.8L33.3,39.8z"/></g></g></svg>
+                                            <input type="search" placeholder="Search in site" autofocus>
+                                        </td>
+                                        <td>
+                                            <ul class="search-values">
+                                                <li>
+                                                    <input type="checkbox">
+                                                    <label>Courses</label>
+                                                </li>
+                                                <li>
+                                                    <input type="checkbox">
+                                                    <label>Open Courses</label>
+                                                </li>
+                                                <li>
+                                                    <input type="checkbox">
+                                                    <label>Seminars</label>
+                                                </li>
+                                                <li>
+                                                    <input type="checkbox">                                            
+                                                    <label>Users</label>
+                                                </li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </td>
+                    <td class="button">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -7.5 42 70" style="enable-background:new 0 0 50 50;" xml:space="preserve"><style type="text/css">.st3{fill:#FFA000;}.st4{fill:#FFFFFF;}</style><ellipse id="XMLID_1_" class="st3" cx="24.9" cy="25" rx="24.9" ry="25"/><ellipse id="XMLID_3_" class="st4" cx="24.2" cy="17.9" rx="6" ry="6"/><path class="st4" d="M32,35H16.5c-1.6,0-3-1.3-3-3v-3.3c0-3.3,2.7-6,6-6c0.4,0.4,2.2,1.8,4.8,1.8	c2.6,0,4.3-1.4,4.7-1.8c0.4,0,2.5,0,4.2,1.8c1.1,1.1,1.8,2.6,1.8,4.2V32C35,33.7,33.7,35,32,35z"/></svg>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
