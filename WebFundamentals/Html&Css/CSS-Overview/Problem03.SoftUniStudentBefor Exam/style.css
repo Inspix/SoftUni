@@ -1,0 +1,91 @@
+#head {
+    width:500px;
+    height:500px;
+    border:3px solid black;
+    background:yellow;
+    border-radius: 50%;    
+}
+
+#eyes {
+    width:400px;
+    height:100px;
+    
+}
+
+#left-eye, #right-eye {
+    position:relative;
+    top:90px;
+    left:100px;
+    display:inline-block;
+    width:100px;
+    height: 100px;
+    border:3px solid black;
+    border-radius: 50%;
+    background: white;
+}
+
+#left-eye {
+    margin-right:100px;''
+}
+
+#left-eye::after,#right-eye::after {
+    content:"";
+    width:30px;
+    height:30px;
+    display:block;
+    position:relative;
+    background: black;
+    border-radius: 50%;
+}
+
+#left-eye::after {    
+    top:50px;
+    left:50px;
+}
+
+#nose {
+    width:75px;
+    height:75px;
+    border:3px solid black;
+    border-radius: 50%;
+    background:red;
+    position:relative;
+    top:100px;
+    left:210px
+}
+
+#mouth {
+    width:250px;
+    height:100px;
+    border-radius: 50px;
+    border:3px solid black;
+    background:white;
+    position:relative;
+    top:120px;
+    left:125px;    
+}
+
+#teeth {
+    width:112px;
+    height: 50px;
+    box-sizing: border-box;
+    position:relative;
+    left:70px;
+    
+}
+
+#teeth::before,#teeth::after {
+    content:"";
+    position:relative;
+    display:inline-block;
+    width:50px;  
+    top:-2px;
+    border:3px solid black;
+    height: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#teeth::after {
+    
+}

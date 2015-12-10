@@ -1,0 +1,209 @@
+* {
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: green;
+    padding:20px;
+    width: 1215px;
+}
+
+table {
+    
+    border-spacing: 0;
+    border:1px solid black;
+    border-radius: 15px;
+
+}
+
+
+th,td {
+    border: 2px solid black;    
+}
+
+th {
+    height:58px;
+    background: #F8C711;
+    font-size: 2em;
+}
+
+td {
+    height:68px;
+    font-size: 1.3em;
+}
+
+table th:first-child {
+    border-top-left-radius: 15px;
+}
+
+table th:last-child {
+    border-top-right-radius: 15px;    
+}
+
+tbody tr:last-child td:first-child {
+    border-bottom-left-radius: 15px;
+}
+
+tbody tr:last-child td:last-child {
+    border-bottom-right-radius: 15px;
+}
+
+tr th:nth-child(1),tr td:nth-child(1) {
+    padding-right: 10px;   
+    width:202px;
+    text-align: right;
+}
+
+tr td:nth-child(4) {
+    text-align: center;
+    width:112px;
+}
+
+tbody tr:nth-child(even) {
+    background: #C8C8C8;
+}
+
+tbody tr:nth-child(odd) {
+    background: white;
+}
+
+tr th:nth-child(3),tr td:nth-child(3) {   
+    text-align: left;
+    width:204px;
+    padding-left: 10px;
+}
+tr td:nth-child(5) {
+    text-align: right;
+    padding-right:10px;    
+    width:168px;
+}
+
+tr td:nth-child(6) {
+    text-align: center;   
+    width:128px;
+}
+
+tr td:nth-child(7) {
+    text-align: left;
+    padding-left:10px;
+    width:168px;
+}
+
+tr td:last-child {
+    width:66px;
+    text-align: center;
+    
+}
+tr td:last-child i {
+    border:1px solid black;
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+    display:inline-block;
+    line-height: 50px;
+}
+
+tr td:last-child a {
+    text-decoration: none;
+    border:2px solid black;
+    border-radius: 50%;
+    border-top-color: lightgray;
+    border-left-color: lightgray;
+    border-bottom-color: black;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size:0.7em;
+    background: red;
+    color:white;
+    width:50px;
+    height:50px;
+    display:inline-block;
+    line-height: 50px;
+}
+
+tr td:last-child a.bet {
+    background: green;
+    color:white;
+}
+
+tr td:nth-child(2) {
+    width:118px;
+    text-align: center;
+}
+
+tbody tr select {
+    width:45px;
+    height: 40px;
+    font-size: 1em;
+}
+
+tbody tr:nth-child(-n+3) select {    
+    color:red;
+    background:#DCDCDC;    
+}
+tbody tr:nth-child(n+4) select {    
+    color:green;
+}
+
+
+
+.country::after, .country::before {
+    display:inline-block;
+    position:relative;
+    top:5px;
+}
+
+.country::after {    
+    padding-left:5px;
+}
+
+.country::before {    
+    padding-right:5px;
+}
+
+#brazil::after {
+    content:url(brazil.png);    
+}
+
+#spain::after {
+    content:url(spain.png);    
+}
+
+#italy::after {
+    content:url(italy.png);   
+
+}
+
+#argentina::after {
+    content:url(argentina.png);   
+
+}
+#germany::after {
+    content:url(germany.png);   
+
+}
+
+#mexico::before{
+    content:url(mexico.png);    
+}
+
+#netherlands::before{
+    content:url(holand.png);    
+}
+
+#england::before{
+    content:url(england.png);   
+
+}
+
+#bnz::before{
+    content:url(bosna.png);   
+
+}
+#portugal::before{
+    content:url(portugal.png);   
+
+}

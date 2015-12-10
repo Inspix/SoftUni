@@ -1,0 +1,169 @@
+body {
+    padding:0;
+    margin:0;
+    width:1582px; 
+    font-family: sans-serif;                    background:url(colorful_dots_on_black.jpg);
+}
+
+body > header {
+    font-size: 3.8em;
+    font-weight: bold;
+    text-align: center;
+    color:yellow;
+    height: 100px;
+    margin-bottom: 40px;
+    background: red;
+    background: linear-gradient(to right, rgba(255,38,0,1) 0%, rgba(246,41,12,1) 33%, rgba(0,128,0,1) 33%, rgba(0,128,0,1) 66%, rgba(0,0,255,1) 66%, rgba(0,0,255,1) 100%);
+
+}
+
+aside {
+    float:left;  
+    margin-left:17px;
+    margin-right:46px;
+}
+
+section {
+    float:right;
+    width:1163px;    
+}
+
+nav {
+    width:316px;
+    height: 330px;
+    display:inline-block;
+    padding:15px;
+    background-color:rgba(255,255,255,0.9);
+    border-radius: 15px;
+}
+
+nav header {
+    text-decoration: underline;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+nav ul {
+    padding:0;
+    list-style: none;
+}
+
+nav ul li a {    
+    color:black;
+    box-sizing: border-box;
+    font-size: 1.4em;
+    text-decoration: none;
+    font-family: sans-serif;
+    width:100%;
+    display:block;
+    padding:12px;
+    overflow: hidden;
+    margin:0;
+    line-height: 20px;
+    
+}
+
+nav ul li a:visited {    
+    color:gray;
+}
+
+nav ul li a:before {
+    content: "";
+    background: url(checkmark.png) no-repeat;
+    width:20px;
+    height: 20px;
+    position:relative;
+    top:2px;
+    padding-right:15px;
+    display:inline-block;
+}
+
+nav ul li:hover { 
+    border-radius: 15px;
+}
+
+nav ul li:nth-child(1):hover {    
+    background-color: red;   
+}
+nav ul li:nth-child(2):hover {    
+    background-color: orange;   
+}
+nav ul li:nth-child(3):hover {    
+    background-color: yellow;   
+}
+nav ul li:nth-child(4):hover {    
+    background-color: green;   
+}
+nav ul li:nth-child(5):hover {    
+    background-color: blue;   
+}
+nav ul li:nth-child(6):hover {    
+    background-color: purple;   
+}
+
+article {
+    padding:20px;
+    font-size: 1.5em;
+    background: rgba(255,255,255,0.9);
+    border-radius:20px;
+    margin-bottom:20px;
+}
+
+article > header {
+    border-radius:10px;
+    padding:0px 20px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    line-height: 74px;
+}
+
+article > div::first-line {
+    font-style: italic;
+}
+
+article > div::first-letter {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+article > footer a {
+    color:gray;
+    font-style: italic;
+    
+}
+
+#\#HSLHSV {
+    background:blue;
+    color:white;
+}
+
+#webColors {
+    background:red;
+    color:white;
+}
+
+#webSafeColors {
+    background:orange;
+}
+#RGB {
+    background:yellow;
+}
+#RGBA {
+    background:green;
+    color:white;
+}
+
+#\#lorem {
+    background:purple;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
