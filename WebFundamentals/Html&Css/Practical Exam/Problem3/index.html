@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Problem 3</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <nav>
+          <ul>
+            <li><a href="#" id="paragliding"><span>Paragliding</span></a></li>
+            <li><a href="#" id="skydiving"><span>Skydiving</span></a></li>
+            <li><a href="#" id="climbing"><span>Climbing</span></a></li>
+            <li><a href="#" id="about"><span>About Us</span></a></li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <form action="#">
+          <fieldset class="left">
+            <legend>Personal info</legend>
+            <div class="input-container">
+              <img id="user" src="img/user1.png" alt="UserIcon">
+              <input type="text" name="firstname" placeholder="Enter your full name">
+            </div>
+            <div class="input-container">
+              <img id="email" src="img/email.png" alt="UserIcon">
+              <input type="email" name="email" placeholder="Enter valid e-mail">
+            </div>
+            <div class="input-container">
+              <img id="phone" src="img/phone.png" alt="UserIcon">
+              <input type="text" name="phone" placeholder="Enter a phone number">
+            </div>
+          </fieldset>
+          <fieldset class="right">
+            <legend>Flight info</legend>
+            Are flying for first time?<br>
+            <input type="radio" name="firstflight" value="Yes">Yes
+            <input type="radio" name="firstflight" value="No">No<br>
+            Choose Destination<br>
+            <select>
+              <optgroup label="Bulgaria">
+                <option value="dobrostan">Dobrostan</option>
+                <option value="sopot">Sopot</option>
+                <option value="bourgas">Bourgas</option>
+              </optgroup>
+              <optgroup label="Rest of the world">
+                <option value="nepal">Nepal</option>
+                <option value="turkey">Turkey</option>
+                <option value="france">France</option>
+              </optgroup>
+            </select>
+            Choose Date<br>
+            <input type="text" class="date" placeholder="01/03/2016" >
+          </fieldset>
+          <div class="buttons">
+            <button id="clear">Clear</button>
+            <button id="send">Send</button>
+          </div>
+        </form>
+      </main>
+    </div>
+  </body>
+</html>

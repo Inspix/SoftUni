@@ -1,0 +1,63 @@
+@font-face {
+  font-family: Animated;
+  src: url("../resources/Animated.ttf"); }
+img {
+  position: relative; }
+
+h1 {
+  width: 100%;
+  text-align: right;
+  font-family: Animated;
+  margin-right: 20px;
+  right: 20px;
+  font-size: 2.3em;
+  color: orange;
+  position: absolute; }
+
+.party {
+  position: absolute;
+  width: 800px;
+  height: 600px;
+  background: url("../resources/HawaiiBackground.png"); }
+
+#bg {
+  padding: 0;
+  margin: 0;
+  position: relative; }
+
+#alex {
+  left: 210px;
+  top: 150px; }
+
+#vladog {
+  right: 440px;
+  top: 150px; }
+
+#petia {
+  bottom: 230px;
+  left: 170px; }
+
+#tedi {
+  bottom: 190px; }
+
+#nakov {
+  left: 350px;
+  top: 130px; }
+
+#vladok {
+  left: 170px;
+  top: -200px; }
+
+html {
+  width: 800px;
+  height: 600px;
+  overflow: hidden; }
+
+body {
+  padding: 0;
+  margin: 0;
+  width: 800px;
+  height: 600px;
+  background: radial-gradient(circle 500px at 150px 150px, white 0%, yellow 5%, white 15%, #25d1e2) no-repeat; }
+
+/*# sourceMappingURL=index.css.map */

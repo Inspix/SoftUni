@@ -1,0 +1,110 @@
+@font-face {
+  font-family: RicksAmerican;
+  src: url(RicksAmericanNF.ttf); }
+body {
+  background-color: black; }
+
+#wrapper {
+  width: 960px;
+  margin: 0 auto;
+  background: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FEA700;
+  text-shadow: 2px 2px black;
+  font-size: 16px; }
+  #wrapper a {
+    color: #FEA700; }
+  #wrapper header#main {
+    font-family: RicksAmerican;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase; }
+    #wrapper header#main h1 {
+      font-size: 60px;
+      letter-spacing: 19px; }
+  #wrapper nav {
+    text-align: center; }
+    #wrapper nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0; }
+      #wrapper nav ul li {
+        display: inline-block;
+        font-family: RicksAmerican; }
+        #wrapper nav ul li a {
+          display: inline-block;
+          padding: 0 75px;
+          margin-bottom: 35px;
+          font-size: 30px;
+          text-decoration: none;
+          text-transform: uppercase;
+          border-radius: 25px;
+          transition: background 0.5s ease-in-out; }
+          #wrapper nav ul li a:hover {
+            background: #FEA700; }
+  #wrapper main {
+    padding-top: 10px;
+    background: gray;
+    display: flex; }
+    #wrapper main .content {
+      display: inline-block;
+      width: 610px; }
+      #wrapper main .content .post {
+        padding-bottom: 15px; }
+        #wrapper main .content .post header {
+          text-align: center; }
+          #wrapper main .content .post header h3 {
+            padding: 0;
+            margin: 0;
+            font-size: 23px;
+            text-transform: uppercase; }
+        #wrapper main .content .post div {
+          display: flex; }
+          #wrapper main .content .post div img {
+            flex: 1;
+            width: 100%;
+            height: 0%;
+            padding: 0 5px 0 25px; }
+          #wrapper main .content .post div p {
+            flex: 1;
+            padding: 0;
+            margin: 0;
+            text-indent: 2em;
+            text-align: justify; }
+            #wrapper main .content .post div p a {
+              font-weight: bold;
+              font-style: italic;
+              text-decoration: none; }
+    #wrapper main aside {
+      flex: 1;
+      width: 250px;
+      box-sizing: border-box;
+      margin: 50px; }
+      #wrapper main aside a:hover span {
+        background: #FEA700;
+        color: black;
+        text-shadow: none; }
+      #wrapper main aside .news {
+        margin-bottom: 15px;
+        position: relative; }
+        #wrapper main aside .news img {
+          display: inline-block;
+          max-width: 100%;
+          position: relative;
+          border: 2px solid #FEA700;
+          border-radius: 10px;
+          box-sizing: border-box; }
+        #wrapper main aside .news span {
+          width: 100%;
+          position: absolute;
+          text-align: center;
+          bottom: 4px;
+          box-sizing: border-box;
+          background: rgba(0, 0, 0, 0.5);
+          border-radius: 10px;
+          border-top-left-radius: 0px;
+          border-top-right-radius: 0px; }
+  #wrapper footer {
+    text-align: center; }
+
+/*# sourceMappingURL=style.css.map */

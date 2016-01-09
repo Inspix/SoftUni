@@ -1,0 +1,127 @@
+#wrapper {
+  width: 960px;
+  margin: 0 auto; }
+  #wrapper header h1 {
+    margin-top: 0;
+    margin-left: 20px;
+    margin-bottom: 50px; }
+  #wrapper header ul {
+    padding: 0;
+    margin: 0 15px;
+    display: inline-block;
+    list-style: none; }
+    #wrapper header ul li {
+      display: inline-block;
+      padding: 0 35px; }
+      #wrapper header ul li:first-child {
+        padding: 0 35px 0 0; }
+      #wrapper header ul li a {
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #888; }
+        #wrapper header ul li a:hover {
+          color: #484848; }
+  #wrapper header .search {
+    position: relative;
+    left: 13px;
+    float: right;
+    display: inline-block; }
+    #wrapper header .search input {
+      position: relative;
+      bottom: 5px;
+      padding: 0 5px;
+      font-size: 0.8em;
+      height: 1.8em;
+      background: #eee;
+      border: 1px solid lightgray; }
+    #wrapper header .search i {
+      position: relative;
+      right: 18px;
+      bottom: 5px;
+      color: lightgray; }
+  #wrapper .left {
+    width: 183px;
+    margin-top: 50px;
+    margin-right: 10px;
+    float: left;
+    padding: 0 15px; }
+    #wrapper .left ul {
+      list-style: none;
+      padding: 0 15px;
+      margin: 0; }
+      #wrapper .left ul a {
+        display: inline-block;
+        padding: 2px 0px;
+        color: #325d98;
+        text-decoration: none; }
+        #wrapper .left ul a:hover {
+          color: #779ed2; }
+  #wrapper .content {
+    margin-left: 220px;
+    width: 516px; }
+    #wrapper .content hr {
+      margin-bottom: 30px; }
+    #wrapper .content a, #wrapper .content a.article-link {
+      text-decoration: none; }
+    #wrapper .content a {
+      color: #325d98; }
+      #wrapper .content a:hover {
+        color: #779ed2; }
+    #wrapper .content i {
+      font-size: 0.7em; }
+    #wrapper .content article h1 {
+      font-weight: normal;
+      margin-bottom: 0; }
+    #wrapper .content article a.article-link, #wrapper .content article em {
+      color: #777;
+      border-bottom: 1px solid #bbb; }
+      #wrapper .content article a.article-link:hover, #wrapper .content article em:hover {
+        color: #444;
+        border-bottom: 1px solid #666; }
+    #wrapper .content article span {
+      color: #aaa; }
+  #wrapper .right {
+    margin-top: 25px;
+    float: right;
+    width: 183px; }
+    #wrapper .right span {
+      color: #afafaf; }
+    #wrapper .right select {
+      margin-bottom: 15px;
+      border: 1px solid #afafaf;
+      background-color: white; }
+  #wrapper footer {
+    clear: both;
+    margin-top: 50px;
+    width: 100%;
+    bottom: 0; }
+    #wrapper footer .twitter-info {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 5px 10px;
+      font-style: italic;
+      color: #b6b5b5;
+      background-color: #f7f7f7; }
+    #wrapper footer .contact-info {
+      color: white;
+      background: black; }
+      #wrapper footer .contact-info div {
+        box-sizing: border-box;
+        padding: 10px;
+        background: black;
+        display: inline-block;
+        float: left;
+        width: 20%;
+        height: 200px; }
+        #wrapper footer .contact-info div p {
+          font-weight: bold; }
+        #wrapper footer .contact-info div ul {
+          list-style: none;
+          padding: 0;
+          margin: 0; }
+        #wrapper footer .contact-info div a {
+          color: white;
+          text-decoration: none;
+          font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Styling a HTML Form</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form class="post" action="index.html" method="post">
+      <h3>Step 1: Your details</h3>
+      <fieldset>
+        <label>Name</label>
+        <input type="text" name="name" value="" placeholder="First and last name"><br>
+      </fieldset>
+      <fieldset>
+        <label>Email</label>
+        <input type="email" name="email" value="" placeholder="First and last name"><br>
+      </fieldset>
+      <fieldset>
+        <label>Phone</label>
+        <input type="tel" name="phone" value="" placeholder="eg. +447500000000">
+      </fieldset>
+
+      <h3>
+        Step 1: Delivery address
+      </h3>
+      <fieldset>
+        <label>Address</label>
+        <textarea name="address" rows="5" cols="19"></textarea>
+      </fieldset>
+      <fieldset>
+        <label>Post code</label>
+        <input name="text" rows="4" cols="40"></input>
+      </fieldset>
+      <fieldset>
+        <label>Country</label>
+        <input name="text" rows="4" cols="40"></input>
+      </fieldset>
+      <h3>Step 1: Card details</h3>
+
+    <fieldset>
+      Card type<br>
+      <input type="radio" name="visa" value=""><span id="visa">VISA</span>
+      <input type="radio" name="amex" value=""><span id="amex">AmEx</span>
+      <input type="radio" name="mastercard" value=""><span id="mastercard">MasterCard</span>
+    </fieldset>
+    <fieldset>
+      <label>Card number</label>
+      <input name="text" rows="4" cols="40"></input>
+    </fieldset>
+    <fieldset>
+      <label>Security code</label>
+      <input name="text" rows="4" cols="40"></input>
+    </fieldset>
+    <fieldset>
+      <label>Name on card</label>
+      <input name="text" rows="4" cols="40"></input>
+    </fieldset>
+    <input type="submit" name="submit" value="BUY IT">
+
+    </form>
+  </body>
+</html>

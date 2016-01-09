@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fakebook</title>
+    <link rel="stylesheet" href="style/style.css">
+
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <h1>fakebook<span>&reg;</span></h1>
+        <h2>Registration</h2>
+        <h3>It's safe and it will always be</h3>
+      </header>
+      <section>
+        <form action="#" id="fakeform">
+          <div>
+            <fieldset id="info">
+              <legend>None-important Information</legend>
+              <input class="standard" type="text" name="fname" placeholder="First name">
+              <input class="standard" type="text" name="lname" placeholder="Last name">
+              <input class="standard" type="email" name="email" placeholder="Your Email">
+              <input class="standard" type="phone" name="phoen" placeholder="Phone number">
+              <input class="standard" type="password" name="password" placeholder="Your Password">
+              <input class="standard" type="phone" name="phoen" placeholder="Website">
+              <label>Birthday</label><br>
+              <input type="date"><br>
+              <input type="radio" name="sex">Male</input>
+              <input type="radio" name="sex">Female</input>
+              <input type="radio" name="sex">Other</input>
+            </fieldset>
+          </div>
+          <div>
+            <fieldset id="more-info">
+              <legend>Important Information *required</legend>
+              <select class="standard" name="country">
+                <option value="bg">Bulgaria</option>
+                <option value="bg">France</option>
+              </select>
+              <input class="standard" type="text" placeholder="Vilage">
+              <input class="standard" type="text" placeholder="District">
+              <input class="standard" type="text" placeholder="Street">
+              <input class="small" type="text" placeholder="Nr">
+              <input class="small" type="text" placeholder="Floor">
+              <input class="small" type="text" placeholder="Ap Nr"><br>
+              Door color<br>
+              <input class="standard" type="color">
+              <input class="standard" type="text" placeholder="Water Meter Nr">
+              <select class="standard" name="pants">
+                <option value="bg">Aunt Panties Size</option>
+                <option value="bg">Huge</option>
+              </select><br>
+              More personal information
+              <textarea name="more" rows="3" cols="50" placeholder="Give Us More Personal Information!!!"></textarea>
+            </fieldset>
+          </div>
+          <input id="clear" type="button" value="Clear Form" onclick="clearElement();">
+          <input id="submit" type="submit" value="Register">
+        </form>
+      </section>
+    </div>
+
+    <script type="text/javascript">
+      function clearStuff(element){
+        for (var i = 0; i < element.childNodes.length; i++) {
+          console.log(element.childNodes[i]);
+        var e = element.childNodes[i];
+        if (e.tagName)
+        switch (e.tagName.toLowerCase()) {
+          case 'input':
+            switch (e.type) {
+               case "radio":
+               case "checkbox": e.checked = false; break;
+               case "image": break;
+               default: e.value = ''; break;
+            }
+            break;
+         case 'select': e.selectedIndex = 0; break;
+         case 'textarea': e.innerHTML = ''; break;
+         default: clearStuff(e);
+      }
+    }}
+
+    function clearElement(){
+      var element = document.getElementById("fakeform");
+      clearStuff(element);
+    }
+
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box; }
+
+#wrapper {
+  padding: 10px;
+  width: 540px;
+  background: pink;
+  after-clear: both; }
+
+.time {
+  width: 125px;
+  height: 34px; }
+
+.full {
+  width: 255px;
+  height: 34px; }
+
+.small {
+  width: 82px;
+  height: 30px; }
+
+fieldset {
+  margin: 0;
+  padding: 0 0 10px 0;
+  display: inline-block;
+  border: none; }
+
+#submit {
+  margin-left: 258px; }

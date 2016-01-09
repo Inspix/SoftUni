@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Flight Order</title>
+    <link rel="stylesheet" href="style/style.css">
+  </head>
+  <body>
+    <div id="wrapper">
+      <form class="flight" action="#">
+        <fieldset>
+          <legend>From</legend>
+          <input class="full" type="text" list="cities" placeholder="enter a city">
+          <datalist id="cities" >
+             <option>Google</option>
+             <option>IE9</option>
+          </datalist>
+        </fieldset>
+        <fieldset>
+          <legend>To</legend>
+          <input class="full" type="text" list="cities" placeholder="enter a city">
+          <datalist id="cities" >
+             <option>Google</option>
+             <option>IE9</option>
+          </datalist>
+        </fieldset><br>
+        <fieldset>
+          <legend>Departure Date</legend>
+          <input class="full" type="date" placeholder="enter a city">
+        </fieldset>
+        <fieldset>
+          <legend>Time Interval</legend>
+          <input class="time" type="time" >
+          <input class="time" type="time">
+        </fieldset>
+        <fieldset>
+          <legend>Return Date</legend>
+          <input class="full" type="date" placeholder="enter a city">
+        </fieldset>
+        <fieldset>
+          <legend>Time Interval</legend>
+          <input class="time" type="time" >
+          <input class="time" type="time">
+        </fieldset>
+        <fieldset>
+          <legend>12+</legend>
+          <input class="small" type="number" value="0">
+        </fieldset>
+        <fieldset>
+          <legend>2-12</legend>
+          <input class="small" type="number" value="0">
+        </fieldset>
+        <fieldset>
+          <legend>0-2</legend>
+          <input class="small" type="number" value="0">
+        </fieldset>
+        <fieldset>
+          <legend>Chose class</legend>
+          <select class="full" name="" style="height:30px">
+            <option value="economy">Economy</option>
+            <option value="business">Business</option>
+          </select>
+        </fieldset>
+        <input id="submit" class="full" type="submit" value="Search">
+
+      </form>
+    </div>
+
+  </body>
+</html>

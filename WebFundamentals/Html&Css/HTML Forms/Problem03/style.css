@@ -1,0 +1,9 @@
+input[type="text"] {
+  height: 25px;
+  position: relative;
+  bottom: 8px
+}
+
+span {
+  line-height: 25px
+}

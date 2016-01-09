@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box; }
+
+#wrapper {
+  width: 780px;
+  height: 504px;
+  font-family: Calibri, sans-serif; }
+  #wrapper .laptops {
+    width: 570px; }
+    #wrapper .laptops h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+      padding-left: 10px;
+      letter-spacing: 2px; }
+    #wrapper .laptops .entry {
+      padding-left: 10px;
+      position: relative;
+      text-align: left;
+      margin: 5px;
+      border: 1px solid #d9eefa;
+      width: 177px;
+      height: 212px;
+      display: inline-block;
+      color: #2c425a;
+      text-decoration: none;
+      transition: border 0.5s linera; }
+      #wrapper .laptops .entry:hover {
+        border: 1px solid red; }
+      #wrapper .laptops .entry img, #wrapper .laptops .entry .info, #wrapper .laptops .entry h5 {
+        padding: 10px 0; }
+      #wrapper .laptops .entry img {
+        margin: 0 auto;
+        width: 158px;
+        height: 98px; }
+      #wrapper .laptops .entry h5 {
+        font-size: 1.1em;
+        margin: 5px 0; }
+      #wrapper .laptops .entry .price {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        text-align: center;
+        line-height: 42px;
+        background-color: #2c425a;
+        color: white;
+        width: 107px;
+        height: 39px;
+        border-top-left-radius: 10px; }
+  #wrapper .options {
+    text-align: center;
+    padding: 10px;
+    width: 193px;
+    height: 504px;
+    border: 1px solid #d9eefa;
+    float: right; }
+    #wrapper .options p {
+      margin: 5px; }
+    #wrapper .options input {
+      width: 100%; }
+    #wrapper .options .left {
+      float: left; }
+    #wrapper .options .right {
+      float: right; }

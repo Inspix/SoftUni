@@ -1,0 +1,91 @@
+body {
+  font-family: Calibri, sans-serif; }
+
+#wrapper {
+  background: #eee;
+  width: 747px;
+  height: 394px;
+  padding: 14px; }
+
+input {
+  display: block; }
+
+input[type="checkbox"] {
+  display: inline-block; }
+
+input[type="text"], input[type="password"], input[type="email"] {
+  box-sizing: border-box;
+  padding-left: 12px;
+  margin: 0 0 14px 0;
+  font-size: 1.05em;
+  width: 340px;
+  height: 41px;
+  border: 1px solid #ccc; }
+
+input[type="submit"] {
+  width: 166px;
+  height: 36px;
+  transition: all 0.5s linear; }
+
+h1, h3 {
+  color: #234465; }
+
+h1 {
+  margin: 0; }
+
+h3 {
+  text-transform: uppercase; }
+
+form {
+  box-sizing: border-box;
+  padding: 0 15px;
+  float: left;
+  width: 370px;
+  min-height: 297px; }
+
+.register h3 {
+  margin: 4px 0 0 0;
+  line-height: 37px; }
+.register input:first-child {
+  margin-top: 0;
+  color: #666; }
+.register input[type="submit"] {
+  float: right;
+  border: 2px solid #234465;
+  color: #234465;
+  background-color: #eee; }
+  .register input[type="submit"]:hover {
+    color: orange;
+    border: 2px solid #eee;
+    background-color: #234465; }
+
+.login {
+  background-color: #234465; }
+  .login h3 {
+    color: white; }
+  .login input[type="checkbox"] {
+    width: 18px;
+    height: 18px; }
+  .login label {
+    position: relative;
+    bottom: 4px;
+    color: white; }
+  .login div {
+    float: right;
+    text-align: center; }
+    .login div a {
+      color: white;
+      transition: color 0.5s linear; }
+      .login div a:hover {
+        color: orange; }
+    .login div input[type="submit"] {
+      border: 2px solid orange;
+      margin-bottom: 5px;
+      width: 140px;
+      color: white;
+      font-size: 1.05em;
+      background-color: #234465; }
+      .login div input[type="submit"]:hover {
+        color: #234465;
+        border: 2px solid #234465;
+        background-color: orange; }

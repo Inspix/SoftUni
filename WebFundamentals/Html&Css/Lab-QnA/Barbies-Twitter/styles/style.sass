@@ -1,0 +1,254 @@
+body
+  background-color: #91c0d8
+  font-family: Verdana, sans-serif
+
+#wrapper
+  margin: 0 auto
+  width: 1222px
+
+ul
+  list-style: none
+  padding: 0
+  margin: 0
+  display: inline-block
+  li
+    display: inline-block
+
+ul.normal
+  li
+    display: block
+
+#navigation
+  background-color: white
+  margin: 0 10px
+
+  ul
+    li
+      line-height: 33px
+      padding: 7px 14px 4px 14px
+      border-bottom: 3px solid #fff
+
+  ul.left
+    li
+      &:hover
+        border-bottom: 3px solid #0084b4
+  ul.right
+    float: right
+    img.compose
+      position: relative
+      top: 5px
+    .search
+      position: relative
+      background-color: #a2aab0
+      padding: 0 5px
+      border-radius: 15px
+      behavior: url(border-radius.htc)
+      input
+        color: white
+        background-color: #a2aab0
+        border: none
+        height: 25px
+        &:focus
+          outline: 0
+      > img
+        position: relative
+        top: 0
+        &:hover
+          cursor: pointer
+
+  img
+    position: relative
+    top: 3px
+    padding: 0 3px
+    margin: 0 auto
+  img.logo
+    left: 10%
+
+.content
+  margin: 10px
+  .left-col
+    float: left
+    margin-right: 10px
+    #profile
+      width: 290px
+      background: #2b82b1
+      padding-top: 95px
+      border-radius: 5px
+      behavior: url(border-radius.htc)
+      #info
+        height: 100px
+        background-color: white
+        img
+          position: relative
+          bottom: 30px
+          margin-left: 15px
+          padding: 4px
+          background-color: white
+          border-radius: 5px
+          float: left
+        p
+          font-weight: bold
+          display: inline-block
+          margin: 4px 0px 0 10px
+          span
+            font-weight: normal
+        #statistics
+          clear: both
+          ul
+            padding: 0 25px
+            position: relative
+            bottom: 17px
+            li
+              padding: 0 5px
+              color: #8c9aa7
+              span
+                font-weight: bold
+                font-size: 1.1em
+                color: #2b82b1
+            li:first-child
+              padding-left: 0
+      #compose
+        width: 288px
+        margin: auto
+        background: #e5f2f7
+        border-bottom-left-radius: 5px
+        border-bottom-right-radius: 5px
+        border: 1px solid #c0dfeb
+        behavior: url(border-radius.htc)
+        input
+          padding: 5px
+          border-radius: 5px
+          border: 1px solid #c0dfeb
+          behavior: url(border-radius.htc)
+          width: 251px
+          height: 15px
+          margin: 14px 12px
+    #trends
+      background: white
+      width: 270px
+      margin-top: 10px
+      padding: 0 0 15px 15px
+      border: 1px solid #ccc
+      border-radius: 5px
+      behavior: url(border-radius.htc)
+      p
+        a
+          font-size: 0.8em
+      a
+        text-decoration: none
+        color: #0084b4
+  .middle-col
+    float: left
+    width: 588px
+    background: white
+    border-radius: 5px
+    behavior: url(border-radius.htc)
+    h2
+      margin: 0
+      padding: 10px
+      border-bottom: 1px solid #ccc
+    .tweet
+      padding: 10px
+      border-bottom: 1px solid #ccc
+
+      img.avatar
+        position: absolute
+        margin-right: 5px
+        width: 48px
+        height: 48px
+      .tweet-content
+        > a
+          display: inline-block
+          padding-top: 5px
+          text-decoration: none
+          color: #2b82b1
+          &:hover
+            color: darken(#2b82b1, 25%)
+          img
+            margin-right: 5px
+        margin-left: 60px
+      p
+        margin: 0
+      p.name
+        font-weight: bold
+        span
+          font-weight: normal
+          color: #999
+          font-size: 0.8em
+      .controlls
+        padding-top: 5px
+        a
+          color: #777
+          text-decoration: none
+        float: right
+  .right-col
+    float: right
+    .follow
+      background: white
+      width: 290px
+      border-radius: 5px
+      behavior: url(border-radius.htc)
+      .header
+        padding: 10px
+        margin: 0
+        font-size: 1.3em
+        a
+          display: inline-block
+          padding: 0 5px
+          font-size: 0.7em
+          color: #2b82b1
+          text-decoration: none
+      .user
+        margin-bottom: 5px
+        p
+          font-size: 0.9em
+        .x
+          float: right
+        padding: 5px 10px
+        > img
+          position: absolute
+          width: 48px
+          height: 48px
+        .user-info
+
+          margin-left: 60px
+          p
+            width: 180px
+            overflow: hidden
+            white-space: nowrap
+            text-overflow: ellipsis
+            margin: 0
+            padding: 0
+
+          button
+            height: 25px
+            margin: 2px 0
+          > img
+            width: 16px
+            height: 16px
+      .more
+        img
+          position: relative
+          top: 5px
+          margin: 0 5px
+        a
+          text-decoration: none
+          color: #2b82b1
+          &:hover
+            color: darken(#2b82b1, 15%)
+        line-height: 35px
+        border-top: 1px solid #ccc
+        text-align: center
+        font-size: 0.6em
+    .twitter-info
+      padding: 10px
+      margin-top: 10px
+      width: 270px
+      background: white
+      border-radius: 5px
+      behavior: url(border-radius.htc)
+      a
+        text-decoration: none
+        color: #999
+        &:hover
+          color: black

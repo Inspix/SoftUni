@@ -1,0 +1,245 @@
+body {
+  background-color: #91c0d8;
+  font-family: Verdana, sans-serif; }
+
+#wrapper {
+  margin: 0 auto;
+  width: 1222px; }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block; }
+  ul li {
+    display: inline-block; }
+
+ul.normal li {
+  display: block; }
+
+#navigation {
+  background-color: white;
+  margin: 0 10px; }
+  #navigation ul li {
+    line-height: 33px;
+    padding: 7px 14px 4px 14px;
+    border-bottom: 3px solid #fff; }
+  #navigation ul.left li:hover {
+    border-bottom: 3px solid #0084b4; }
+  #navigation ul.right {
+    float: right; }
+    #navigation ul.right img.compose {
+      position: relative;
+      top: 5px; }
+    #navigation ul.right .search {
+      position: relative;
+      background-color: #a2aab0;
+      padding: 0 5px;
+      border-radius: 15px;
+      behavior: url(border-radius.htc); }
+      #navigation ul.right .search input {
+        color: white;
+        background-color: #a2aab0;
+        border: none;
+        height: 25px; }
+        #navigation ul.right .search input:focus {
+          outline: 0; }
+      #navigation ul.right .search > img {
+        position: relative;
+        top: 0; }
+        #navigation ul.right .search > img:hover {
+          cursor: pointer; }
+  #navigation img {
+    position: relative;
+    top: 3px;
+    padding: 0 3px;
+    margin: 0 auto; }
+  #navigation img.logo {
+    left: 10%; }
+
+.content {
+  margin: 10px; }
+  .content .left-col {
+    float: left;
+    margin-right: 10px; }
+    .content .left-col #profile {
+      width: 290px;
+      background: #2b82b1;
+      padding-top: 95px;
+      border-radius: 5px;
+      behavior: url(border-radius.htc); }
+      .content .left-col #profile #info {
+        height: 100px;
+        background-color: white; }
+        .content .left-col #profile #info img {
+          position: relative;
+          bottom: 30px;
+          margin-left: 15px;
+          padding: 4px;
+          background-color: white;
+          border-radius: 5px;
+          float: left; }
+        .content .left-col #profile #info p {
+          font-weight: bold;
+          display: inline-block;
+          margin: 4px 0px 0 10px; }
+          .content .left-col #profile #info p span {
+            font-weight: normal; }
+        .content .left-col #profile #info #statistics {
+          clear: both; }
+          .content .left-col #profile #info #statistics ul {
+            padding: 0 25px;
+            position: relative;
+            bottom: 17px; }
+            .content .left-col #profile #info #statistics ul li {
+              padding: 0 5px;
+              color: #8c9aa7; }
+              .content .left-col #profile #info #statistics ul li span {
+                font-weight: bold;
+                font-size: 1.1em;
+                color: #2b82b1; }
+            .content .left-col #profile #info #statistics ul li:first-child {
+              padding-left: 0; }
+      .content .left-col #profile #compose {
+        width: 288px;
+        margin: auto;
+        background: #e5f2f7;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border: 1px solid #c0dfeb;
+        behavior: url(border-radius.htc); }
+        .content .left-col #profile #compose input {
+          padding: 5px;
+          border-radius: 5px;
+          border: 1px solid #c0dfeb;
+          behavior: url(border-radius.htc);
+          width: 251px;
+          height: 15px;
+          margin: 14px 12px; }
+    .content .left-col #trends {
+      background: white;
+      width: 270px;
+      margin-top: 10px;
+      padding: 0 0 15px 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      behavior: url(border-radius.htc); }
+      .content .left-col #trends p a {
+        font-size: 0.8em; }
+      .content .left-col #trends a {
+        text-decoration: none;
+        color: #0084b4; }
+  .content .middle-col {
+    float: left;
+    width: 588px;
+    background: white;
+    border-radius: 5px;
+    behavior: url(border-radius.htc); }
+    .content .middle-col h2 {
+      margin: 0;
+      padding: 10px;
+      border-bottom: 1px solid #ccc; }
+    .content .middle-col .tweet {
+      padding: 10px;
+      border-bottom: 1px solid #ccc; }
+      .content .middle-col .tweet img.avatar {
+        position: absolute;
+        margin-right: 5px;
+        width: 48px;
+        height: 48px; }
+      .content .middle-col .tweet .tweet-content {
+        margin-left: 60px; }
+        .content .middle-col .tweet .tweet-content > a {
+          display: inline-block;
+          padding-top: 5px;
+          text-decoration: none;
+          color: #2b82b1; }
+          .content .middle-col .tweet .tweet-content > a:hover {
+            color: #12374a; }
+          .content .middle-col .tweet .tweet-content > a img {
+            margin-right: 5px; }
+      .content .middle-col .tweet p {
+        margin: 0; }
+      .content .middle-col .tweet p.name {
+        font-weight: bold; }
+        .content .middle-col .tweet p.name span {
+          font-weight: normal;
+          color: #999;
+          font-size: 0.8em; }
+      .content .middle-col .tweet .controlls {
+        padding-top: 5px;
+        float: right; }
+        .content .middle-col .tweet .controlls a {
+          color: #777;
+          text-decoration: none; }
+  .content .right-col {
+    float: right; }
+    .content .right-col .follow {
+      background: white;
+      width: 290px;
+      border-radius: 5px;
+      behavior: url(border-radius.htc); }
+      .content .right-col .follow .header {
+        padding: 10px;
+        margin: 0;
+        font-size: 1.3em; }
+        .content .right-col .follow .header a {
+          display: inline-block;
+          padding: 0 5px;
+          font-size: 0.7em;
+          color: #2b82b1;
+          text-decoration: none; }
+      .content .right-col .follow .user {
+        margin-bottom: 5px;
+        padding: 5px 10px; }
+        .content .right-col .follow .user p {
+          font-size: 0.9em; }
+        .content .right-col .follow .user .x {
+          float: right; }
+        .content .right-col .follow .user > img {
+          position: absolute;
+          width: 48px;
+          height: 48px; }
+        .content .right-col .follow .user .user-info {
+          margin-left: 60px; }
+          .content .right-col .follow .user .user-info p {
+            width: 180px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            margin: 0;
+            padding: 0; }
+          .content .right-col .follow .user .user-info button {
+            height: 25px;
+            margin: 2px 0; }
+          .content .right-col .follow .user .user-info > img {
+            width: 16px;
+            height: 16px; }
+      .content .right-col .follow .more {
+        line-height: 35px;
+        border-top: 1px solid #ccc;
+        text-align: center;
+        font-size: 0.6em; }
+        .content .right-col .follow .more img {
+          position: relative;
+          top: 5px;
+          margin: 0 5px; }
+        .content .right-col .follow .more a {
+          text-decoration: none;
+          color: #2b82b1; }
+          .content .right-col .follow .more a:hover {
+            color: #1c5573; }
+    .content .right-col .twitter-info {
+      padding: 10px;
+      margin-top: 10px;
+      width: 270px;
+      background: white;
+      border-radius: 5px;
+      behavior: url(border-radius.htc); }
+      .content .right-col .twitter-info a {
+        text-decoration: none;
+        color: #999; }
+        .content .right-col .twitter-info a:hover {
+          color: black; }
+
+/*# sourceMappingURL=style.css.map */
